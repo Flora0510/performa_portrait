@@ -1,7 +1,7 @@
 # Navigation
 
 nav:
-  - portraits_performa :
+  - Travaux performa :
     - portraits_performa/index.md
     - Portrait 1: portraits_performa/premier_portrait.md
   
