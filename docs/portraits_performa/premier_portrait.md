@@ -5,6 +5,9 @@ hide:
 
 # Portrait 1 
 
+![Description Lora](image/lora.png)
+
+
 ## Rapport à soi   
 
 ### Mes forces   
