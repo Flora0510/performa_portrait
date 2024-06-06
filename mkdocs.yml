@@ -3,9 +3,8 @@
 nav:
   - portraits_performa :
     - portraits_performa/index.md
-    - Portrait 1: portraits_performa/portrait1.md
-    - Portrait: portraits_performa/premier_portrait.md
-    - Cours 2: portraits_performa/cours02.md
+    - Portrait 1: portraits_performa/premier_portrait.md
+  
  
 
 ###########################################################################
