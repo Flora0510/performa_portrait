@@ -42,11 +42,9 @@ hide:
 
 
 ### Ma pensée disciplinaire
-Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
-{ .annotate }
+Note bas de page[^unity] test
 
-1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
+[^unity]: [Bonnes pratiques pour organiser votre jeu vidéo](https://unity.com/how-to/organizing-your-project) (En anglais)
 
 ### Mes rapports aux savoirs et ceux de mes élèves
 
