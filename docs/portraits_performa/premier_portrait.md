@@ -2,7 +2,7 @@
 
 # Rapport à soi
 ## Mes forces
-!!! example "Gentillesse et générosité "
+!!! example "Curiosité et intérêt accordé au monde"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
@@ -20,14 +20,14 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-!!! info "Curiosité et intérêt accordé au monde"
+!!! info "Honnêteté, intégrité, et sincérité"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
 
-!!! tip "Honnêteté, intégrité, et sincérité"
+!!! tip "Gentillesse et générosité"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
