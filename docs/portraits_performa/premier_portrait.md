@@ -14,34 +14,24 @@ hide:
 
 !!! example "Curiosité et intérêt accordé au monde"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Je porte attention à tout ce qui m'entoure. J'aime savoir comment les choses fonctionnent et en apprendre sur le plus de sujets possible. J'essaie de stimuler la curiosité de mes élèves. 
     
 !!! note "Amour de l’étude, de l’apprentissage"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Pas très étonnant! J'adore apprendre de nouvelles choses. J'enseigne puisque j'aime aussi transmettre ce que j'apprends.
     
 !!! abstract "Assiduité, application, et persévérance "
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Je suis très assidue. J'aime être présente autant pour mes élèves que pour les enseignants que je coordonne. 
 
 !!! info "Honnêteté, intégrité, et sincérité"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Cette force se révèle utile lors de la notation des étudiants. Pour moi il est important que chacun soit évalué de façon honnête. Je donne autant des bons commentaires que d'autres à améliorer pour aider les étudiants. 
 
 
 !!! tip "Gentillesse et générosité"
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    J'aime beaucoup aider les autres. Lorsqu'un étudiant ne comprends pas une notion, je cherche des façons différentes de lui expliquer pour qu'il arrive à mieux cerner le sujet. Voir les autres réussir est aussi satisfaisant pour moi que de réussir par moi-même. 
 
 
 ### Ma pensée disciplinaire
