@@ -30,13 +30,13 @@ theme:
     - navigation.path
   palette:
     - media: "(prefers-color-scheme: light)"
-      primary: red
+      primary: teal
       scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Mode clair
     - media: "(prefers-color-scheme: light)"
-      primary: lime
+      primary: pink
       scheme: default
       toggle:
         icon: material/weather-night
