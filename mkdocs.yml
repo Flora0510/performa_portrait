@@ -91,6 +91,6 @@ plugins:
   - mkdocs-video
 
 # Project information 
-site_name: Notes de cours
+site_name: Travail performa
 site_url:  https://flora0510.github.io/performa_portrait/
-copyright: Techniques d’intégration multimédia | Collège Montmorency
+copyright: Lora Boisvert | Collège Montmorency
