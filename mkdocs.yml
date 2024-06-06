@@ -1,7 +1,7 @@
 # Navigation
 
 nav:
-  - Travaux performa :
+  - Travaux Performa :
     - portraits_performa/index.md
     - Portrait 1: portraits_performa/premier_portrait.md
   
@@ -90,6 +90,6 @@ plugins:
   - mkdocs-video
 
 # Project information 
-site_name: Travail performa
+site_name: Travaux Performa
 site_url:  https://flora0510.github.io/performa_portrait/
 copyright: Lora Boisvert | Collège Montmorency
