@@ -35,9 +35,9 @@ hide:
 
 
 ### Ma pensée disciplinaire
-Note bas de page[^unity] test
+![Pensee disciplinaire](image/pensee.png)
 
-[^unity]: [Bonnes pratiques pour organiser votre jeu vidéo](https://unity.com/how-to/organizing-your-project) (En anglais)
+
 
 ### Mes rapports aux savoirs et ceux de mes élèves
 
@@ -53,3 +53,8 @@ Décrivez comment vos conceptions quant au rapport à soi se manifestent dans vo
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport à soi. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
 ## Rapport au travail 
+
+Note bas de page[^unity] test
+
+[^unity]: [Bonnes pratiques pour organiser votre jeu vidéo](https://unity.com/how-to/organizing-your-project) (En anglais)
+
