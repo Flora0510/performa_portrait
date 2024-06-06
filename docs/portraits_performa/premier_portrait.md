@@ -5,8 +5,10 @@ hide:
 
 # Portrait 1 
 
-## Rapport à soi
-### Mes forces
+## Rapport à soi   
+
+### Mes forces   
+
 !!! example "Curiosité et intérêt accordé au monde"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
