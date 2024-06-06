@@ -35,7 +35,7 @@ hide:
 
 
 ### Ma pensée disciplinaire
-![Pensee disciplinaire](image/pensee.png)
+![Pensee disciplinaire](image/pensee2.png)
 
 
 
