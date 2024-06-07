@@ -3,7 +3,7 @@
 ![Description Lora](image/lora.png)
 
 
-# Rapport à soi   
+## Rapport à soi   
 
 ## Mes forces   
 
@@ -42,7 +42,7 @@
 
 
 Par rapport à ce qu'on vient d'apprendre quelle est ma vision dominante dans ces axes? 
-Par rapport au tableau présenté, ma vision dominante du monde ou du moins de mon enseignement est le socioconstructivisme. Pour moi, les savoirs ne sont pas fixes et on peut les développer en expériementant en groupe. L'approche par projet que je préconise est tirée de cette vision. C'est en discutant et en échangeant des opinions que les élèves créent leurs savoirs. Évidemment, ce n'est pas le seul rapport au savoir qui me rejoint.  
+Selon le tableau présenté dans le cours[^axes], ma vision dominante du monde ou du moins de mon enseignement est le socioconstructivisme. Pour moi, les savoirs ne sont pas fixes et on peut les développer en expériementant en groupe. L'approche par projet que je préconise est tirée de cette vision. C'est en discutant et en échangeant des opinions que les élèves créent leurs savoirs. Évidemment, ce n'est pas le seul rapport au savoir qui me rejoint.  
 
 Le rationalisme me rejoint également puisqu'il utilise la raison pour déterminer et comprendre différents phénomènes. Le réfutationisme est intéressant, mais me semble être une méthode qui peut parfois être plus longue pour trouver les réels savoirs. Le relativisme est intéressant puisqu'il remet en perspective les savoirs par rapport aux préconceptions de l'humain. L'induction me rejoint également puisqu'on peut accumuler plusieurs faits et en tirer des conclusions. 
 
@@ -58,9 +58,9 @@ Décrivez comment vos conceptions quant au rapport à soi se manifestent dans vo
 ## Favoriser les apprentissages de mes étudiants
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport à soi. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
-# Rapport au travail 
+## Rapport au travail 
 
-Note bas de page[^unity] test
 
-[^unity]: [Bonnes pratiques pour organiser votre jeu vidéo](https://unity.com/how-to/organizing-your-project) (En anglais)
+
+[^axes]: [Tableau synthèse des différents rapports aux savoirs]([https://unity.com/how-to/organizing-your-project](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
 
