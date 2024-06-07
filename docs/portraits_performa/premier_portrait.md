@@ -39,9 +39,11 @@ hide:
 
 
 ### Mes rapports aux savoirs et ceux de mes élèves
-Vidéo 
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/wgs2Ybh_1d0?si=zXnMkxwpZ6VYp_6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-L'exemple ci-haut est appliqué à la réalité virtuelle, mais dans tous les cours que je donne, mes rapports aux savoirs sont similaires. 
+!!! info "Honnêteté, intégrité, et sincérité"
+
+    L'exemple ci-haut est appliqué à la réalité virtuelle, mais dans tous les cours que je donne, mes rapports aux savoirs sont similaires. 
 
 
 
