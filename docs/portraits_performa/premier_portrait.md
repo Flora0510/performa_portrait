@@ -57,8 +57,20 @@ Décrivez comment vos conceptions quant au rapport à soi se manifestent dans vo
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport à soi. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
 ## Rapport au travail 
+### Vision de l'enseignement, de l'apprentissage et de l'évaluation
+Je dirais que je suis un peu entre les paradigmes de l'enseignement et de l'apprentissage. Au niveau de la notation, je tends à me rapprocher du paradigme de l'enseignement. Cela, puisque tel qu'énoncé dans l'article de Hétu[^hetu], il y a plusieurs facteurs qui nous incitent à tendre vers ce paradigme. Pour ma part, j'évalue encore avec des notes puisque c'est ainsi que mes collègues font et que j'ai appris. Cependant, comme je fonctionne beaucoup par évaluation de critères selon les objectifs d'apprentissage sur des projets et non pas avec des examens, cela tend un peu vers le paradigme de l'apprentissage. De plus, je ne donne jamais accès à la moyenne à mes étudiants, puisque je ne souhaite pas qu'ils se comparent entre eux. Au niveau de l'enseignement, comme je passe beaucoup par la pratique et le partage, je me rapproche du paradigme de l'apprentissage. Comme mes cours sont axés sur l'apprentissage de logiciels et qu'il y a plus d'une bonne manière de faire les choses, j'essaie que chacun puisse apprendre à son rythme et que nous ayons des moments de partage. 
+
+### Théories de l'apprentissage qui inspirent mes pratiques
+
+### Comment se manifestent mes conceptions
+Décrivez comment vos conceptions quant au rapport au travail se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec vos conceptions actuelles en éducation.
+
+### Favoriser les apprentissages de mes étudiants
+Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport au travail. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
 
 
-[^axes]: [Tableau synthèse des différents rapports aux savoirs]([https://unity.com/how-to/organizing-your-project](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
+[^axes]: [Carle. S. (2021). Tableau synthèse des différents rapports aux savoirs. Cours PRF500 et PRF600, Module 1, Université de Sherbrooke, Faculté d’éducation]([https://unity.com/how-to/organizing-your-project](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
+
+[^hetu]: [Hétu, M. (2019). Évaluer pour soutenir l’apprentissage. Constats, orientations, obstacles et pistes de réflexion. Pédagogie collégiale, 32(4), 3-11.] (https://eduq.info/xmlui/handle/11515/38034)
 
