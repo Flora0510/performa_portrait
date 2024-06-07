@@ -41,6 +41,8 @@ hide:
 ### Mes rapports aux savoirs et ceux de mes élèves
 Vidéo 
 
+L'exemple ci-haut est appliqué à la réalité virtuelle, mais dans tous les cours que je donne, mes rapports aux savoirs sont similaires. 
+
 
 
 ### Mes croyances au sujet de l’intelligence
