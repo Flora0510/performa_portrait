@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # Portrait 1 
 
 ![Description Lora](image/lora.png)
