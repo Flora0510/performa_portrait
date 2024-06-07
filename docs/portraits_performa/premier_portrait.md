@@ -40,10 +40,12 @@ hide:
 
 
 ### Mes rapports aux savoirs et ceux de mes élèves
+Vidéo 
+
 
 
 ### Mes croyances au sujet de l’intelligence
-
+Je trouve que la mentalité de croissance est un concept intéressant. Je crois que personne n'a les même talents à la base, mais que tous ont la capacité d'apprendre et de se développer s'ils y mettent les efforts. Pour moi, il est faux de dire que tout le monde doit mettre le même niveau d'efforts pour arriver au même résultat. Cependant, je crois que tous ont une chance d'arriver à un résultat similaire même si le chemin pour s'y rendre est bien différent. D'ailleurs, c'est pourquoi donner un cours à de nombreux étudiants peut parfois être ardu. Pour certains peu de temps sera nécessaire pour comprendre un concept et l'appliquer alors que d'autres auront besoin de beaucoup de pratique et de répétition pour y arriver. 
 
 
 ### Rapport à soi et pratiques enseignantes
