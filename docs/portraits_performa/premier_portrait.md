@@ -36,7 +36,7 @@
 ### Mes rapports aux savoirs et ceux de mes élèves
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/wgs2Ybh_1d0?si=zXnMkxwpZ6VYp_6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Source mentionnée dans la vidéo[^Gagnon].
+Tableau inspiré de Gagnon, M.[^Gagnon].
 
 
 !!! info "Note sur la vidéo"
@@ -61,9 +61,12 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 
 ## Rapport au travail 
 ### Vision de l'enseignement, de l'apprentissage et de l'évaluation
-Je dirais que je suis à mi-chemin entre les paradigmes de l'enseignement et de l'apprentissage. Je voudrais tendre plus vers l'apprentissage. Au niveau de la notation, je me rapproche du paradigme de l'enseignement. Cela, puisque tel qu'énoncé dans l'article de Hétu[^hetu], plusieurs facteurs nous incitent à tendre vers ce paradigme. Pour ma part, j'évalue encore avec des notes puisque c'est ainsi que mes collègues font et que j'ai appris à l'école. J'essaie peu à peu de me détacher de la notation par chiffre en basant mes évaluations sur des critères basés sur les objectifs d'apprentissage. De plus, je ne donne jamais accès à la moyenne à mes étudiants, puisque je ne souhaite pas qu'ils se comparent entre eux. Au niveau de l'enseignement, comme je passe beaucoup par la pratique et le partage, je me rapproche du paradigme de l'apprentissage. Mes cours sont axés sur l'apprentissage de logiciels et il y a plus d'une bonne manière de faire les choses, j'essaie que chacun puisse apprendre à son rythme et que nous ayons des moments de partage. 
+Je dirais que je suis à mi-chemin entre les paradigmes de l'enseignement et de l'apprentissage. Je voudrais tendre plus vers l'apprentissage. Au niveau de la notation, je me rapproche du paradigme de l'enseignement. Cela, puisque tel qu'énoncé dans l'article de Hétu[^hetu], plusieurs facteurs nous incitent à tendre vers ce paradigme. Pour ma part, j'évalue encore avec des notes puisque c'est ainsi que mes collègues font et que j'ai appris à l'école. J'essaie peu à peu de me détacher de la notation par chiffre en basant mes évaluations sur des critères basés sur les objectifs d'apprentissage. De plus, je ne donne jamais accès à la moyenne à mes étudiants, puisque je ne souhaite pas qu'ils se comparent entre eux. Au niveau de l'enseignement, comme je passe beaucoup par la pratique et le partage, je me rapproche du paradigme de l'apprentissage. Mes cours sont axés sur l'apprentissage de logiciels et il y a plus d'une bonne manière de faire les choses, j'essaie que chacun puisse apprendre à son rythme et que nous ayons des moments de partage.    
+
+
 
 ### Théories de l'apprentissage qui inspirent mes pratiques
+Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même si ce n'est pas la plus amusante, la transmission m'est utile dans certains cours pour présenter des notions de base dans des exporés magistraux. Au niveau plus constructiviste, j'utilise parfois des évaluations formatives qui me permettent de dégager les erreurs des étudiants. Je les amène alors à réfléchir à la façon d'améliorer leur travail pour transformer ces erreurs. Le socioconstructivisme est important pour moi lorsque les élèves effectuent des travaux d'équipe. À travers des projets, les élèves apprennent des choses entre eux. Leurs réflexions et le partage leurs permettent de développer de nouvelles connaissances. Le connectivisme est la théorie qui me rejoint le plus parmis celles présentées. Le développement de l'autonomie d'apprentissage est au cœur des cours de multimédia. Comme les informations sont constamment modifiées, il est important que nos élèves sachent consulter les bonnes ressources et trouver des façons de faire sans avoir accès aux enseignants. On cherche à développer chez les élèves une autonomie oui, mais aussi des notions de base qu'ils pourront utiliser d'un logiciel à un autre. On leur apprend à faire preuve de discernement face aux différentes informations. À reconnaître lesquelles sont véridiques et lesquelles sont moins pertinentes. 
 
 ### Comment se manifestent mes conceptions
 Décrivez comment vos conceptions quant au rapport au travail se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec vos conceptions actuelles en éducation.
