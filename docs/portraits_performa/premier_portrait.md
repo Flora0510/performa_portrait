@@ -34,7 +34,7 @@
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/tEDNQn2Yt8A?si=LjRo_n12DeIderwq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Mes rapports aux savoirs et ceux de mes élèves
+### Mes rapports aux savoirs 
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/wgs2Ybh_1d0?si=zXnMkxwpZ6VYp_6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Tableau inspiré de Gagnon, M.[^Gagnon].
@@ -44,6 +44,10 @@ Tableau inspiré de Gagnon, M.[^Gagnon].
 
     L'exemple ci-haut est appliqué à la réalité virtuelle, mais dans tous les cours que je donne, mes rapports aux savoirs sont similaires. 
 
+### Rapports aux savoirs de mes élèves
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dI-g7UXtNXs?si=cJgdEvtbqRqMo-du" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Tableau inspiré de Gagnon, M.[^Gagnon].
 
 **Par rapport à ce qu'on vient d'apprendre sur mes rapports aux savoirs quelle est ma vision dominante dans ces axes?**    
 Selon le tableau présenté dans le cours[^axes], ma vision dominante du monde ou du moins de mon enseignement est le socioconstructivisme. Pour moi, les savoirs ne sont pas fixes et on peut les développer en expériementant en groupe. L'approche par projet que je préconise est tirée de cette vision. C'est en discutant et en échangeant des opinions que les élèves créent leurs savoirs. Évidemment, ce n'est pas le seul rapport au savoir qui me rejoint. C'est à travers un mélange que j'enseigne. Au début des sessions, j'ai une approche plus positiviste. Je donne plusieurs éléments théoriques aux élèves pour qu'ils apprennent les logiciels. Je m'assure qu'ils soient bien outillés pour pouvoir ensuite expérimenter. Après cela, je me rapproche de l'induction pour que les élèves tirent leurs propres conclusions par la pratique. C'est vers la fin de la session que des projets nous permettent de réinvestir les apprentissages et de les pousser plus loin grâce à une approche socioconstructive. En groupe, on analyse les projets, chacun tire des éléments différents qui le rejoignent ou non à travers la vision artistique et créative. 
