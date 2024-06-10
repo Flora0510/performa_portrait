@@ -81,7 +81,7 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 
 [^Gagnon]: [Gagnon, M. (2015). Quelle place pour les rapports aux savoirs dans l’enseignement?. Pédagogie collégiale, 29(1), 24-32.](https://eduq.info/xmlui/handle/11515/37441)
 
-[^axes]: [Carle. S. (2021). Tableau synthèse des différents rapports aux savoirs. Cours PRF500 et PRF600, Module 1, Université de Sherbrooke, Faculté d’éducation]([https://unity.com/how-to/organizing-your-project](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
+[^axes]: [Carle. S. (2021). Tableau synthèse des différents rapports aux savoirs. Cours PRF500 et PRF600, Module 1, Université de Sherbrooke, Faculté d’éducation](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
 
 [^hetu]: [Hétu, M. (2019). Évaluer pour soutenir l’apprentissage. Constats, orientations, obstacles et pistes de réflexion. Pédagogie collégiale, 32(4), 3-11.](https://eduq.info/xmlui/handle/11515/38034)
 
