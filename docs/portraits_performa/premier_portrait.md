@@ -41,7 +41,7 @@
     L'exemple ci-haut est appliqué à la réalité virtuelle, mais dans tous les cours que je donne, mes rapports aux savoirs sont similaires. 
 
 
-**Par rapport à ce qu'on vient d'apprendre quelle est ma vision dominante dans ces axes?**    
+**Par rapport à ce qu'on vient d'apprendre sur mes rapports aux savoirs quelle est ma vision dominante dans ces axes?**    
 Selon le tableau présenté dans le cours[^axes], ma vision dominante du monde ou du moins de mon enseignement est le socioconstructivisme. Pour moi, les savoirs ne sont pas fixes et on peut les développer en expériementant en groupe. L'approche par projet que je préconise est tirée de cette vision. C'est en discutant et en échangeant des opinions que les élèves créent leurs savoirs. Évidemment, ce n'est pas le seul rapport au savoir qui me rejoint. C'est à travers un mélange que j'enseigne. Au début des sessions, j'ai une approche plus positiviste. Je donne plusieurs éléments théoriques aux élèves pour qu'ils apprennent les logiciels. Je m'assure qu'ils soient bien outillés pour pouvoir ensuite expérimenter. Après cela, je me rapproche de l'induction pour que les élèves tirent leurs propres conclusions par la pratique. C'est vers la fin de la session que des projets nous permettent de réinvestir les apprentissages et de les pousser plus loin grâce à une approche socioconstructive. En groupe, on analyse les projets, chacun tire des éléments différents qui le rejoignent ou non à travers la vision artistique et créative. 
 
 
