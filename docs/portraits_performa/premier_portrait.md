@@ -36,6 +36,9 @@
 ### Mes rapports aux savoirs et ceux de mes élèves
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/wgs2Ybh_1d0?si=zXnMkxwpZ6VYp_6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Source mentionnée dans la vidéo[^Gagnon].
+
+
 !!! info "Note sur la vidéo"
 
     L'exemple ci-haut est appliqué à la réalité virtuelle, mais dans tous les cours que je donne, mes rapports aux savoirs sont similaires. 
@@ -68,7 +71,7 @@ Décrivez comment vos conceptions quant au rapport au travail se manifestent dan
 ### Favoriser les apprentissages de mes étudiants
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport au travail. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
-
+[^Gagnon]: [Gagnon, M. (2015). Quelle place pour les rapports aux savoirs dans l’enseignement?. Pédagogie collégiale, 29(1), 24-32.](https://eduq.info/xmlui/handle/11515/37441)
 
 [^axes]: [Carle. S. (2021). Tableau synthèse des différents rapports aux savoirs. Cours PRF500 et PRF600, Module 1, Université de Sherbrooke, Faculté d’éducation]([https://unity.com/how-to/organizing-your-project](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
 
