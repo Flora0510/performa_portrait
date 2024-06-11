@@ -57,9 +57,18 @@ Je trouve que la mentalité de croissance est un concept intéressant. Je crois 
 
 
 ### Rapport à soi et pratiques enseignantes
+!!! success "Succès des sorties scolaires"
+
+     Dans mes forces, on a constaté que je suis très curieuse. J'essaie de stimuler la curiosité de mes élèves pour la matière et l'une des méthodes qui fonctionne bien pour cela est les sorties scolaires ou la venue de conférenciers dans les cours. Visiter le milieu dans lequel ils évolueront après la technique amène souvent des questionnements aux étudiants. Être confronté au milieu permet également aux élèves de sortir du cadre scolaire et de se rappeler que tout ce qu'ils apprennent leur servira dans le futur. Voir comment ce qu'on apprend en classe est utilisé par les entreprises est souvent un grand facteur de motivation pour les élèves. En étant en contact avec les gens de l'extérieur, les élèves et moi-même fortifions notre pensée disciplinaire. 
+     
+
 !!! warning "Difficulté d'adéquation entre ma vision de l'intelligence et mon enseignement"
 
      L'une des difficultés que je trouve en tant qu'enseignante est d'avoir un grand nombre d'apprenants. Chaque élève a son propre niveau et ses besoins. Je crois en la mentalité de croissance et au fait que chacun peut se développer s'il y met les efforts, mais le fait que chacun n'ait pas les mêmes efforts à faire peut susciter un sentiment d'inégalité entre les élèves. Par exemple, pour un travail technique qui demandait de reproduire une animation que j'avais faite, certains ont eu besoin de deux jours alors que d'autres ont dû travailler deux semaines. Cela a entraîner le mécontentement de certains élèves pour qui tout prend plus de temps. Voyant cela, dans un autre exercice à faire en classe, j'ai essayé d'intégrer des défis supplémentaires pour que ceux qui travaillent plus rapidement aient quelque chose à faire en attendant que les autres finissent. Cela cause alors un débalancement dans les apprentissages que les élèves font. En bref, pour l'instant je n'ai pas de solution parfaite. 
+
+!!! success "Succès de l'approche par projets"
+
+     Tel que mentionné ci-haut, j'utilise beaucoup l'approche par projet dans mes cours. Je permet ainsi à mes élèves de découvrir les logiciels que j'enseigne tout en exprimant leur créativité. Cette approche rejoint beaucoup ma pensée disciplinaire du «apprendre à apprendre». En faisant les projets, les élèves poussent leurs connaissances plus loin que si ils répètent des exercices que je leur explique comment faire. De plus, comme chacun réalise un projet à son niveau, il est plus facile de respecter la mentalité de croissance en aidant chaque élève à se développer à son rythme. Finalement, en plus de l'approche par projet, j'utilise beaucoup les rétroactions en groupe sur les projets qui permettent un rapport au savoir socioconstructiviste. 
     
 
 Décrivez comment vos conceptions quant au rapport à soi se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec vos conceptions actuelles en éducation.
