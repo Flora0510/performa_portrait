@@ -104,7 +104,11 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 
 
 ### Favoriser les apprentissages de mes étudiants
-parler de correction finale seulement, plus de formatif. Axer sur l'étudiant... 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjgR_K7ev7Q?si=KT2nLu_QuLlIrUsW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Ajouter liens avec la matière
+
+Droit à l'erreur: Favorisé par le formatif
 
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport au travail. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
