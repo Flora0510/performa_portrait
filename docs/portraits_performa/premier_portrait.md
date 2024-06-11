@@ -102,9 +102,9 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 
      Je ne connaissais pas la théorie du connectivisme et en l'apprenant, je me suis sentie très interpellée. Elle valide que je n'ai pas à tout connaître et tout savoir, puisque dans mon domaine l'information change constamment. Je me sens plus à l'aise avec le rôle d'enseignante comme guide vers la connaissance plutôt que de l'enseignante comme moteur de transmission d'une connaissance absolue. À mon arrivée au cégep, ma plus grande crainte était de ne pas tout savoir et que cela déçoive mes élèves. Plus j'enseigne, plus je me rends compte que lorsque je ne sais pas quelque chose, c'est une belle opportunité de montrer à mes élèves comment chercher la bonne réponse. Même quand je sais la réponse, j'utilise maintenant cette stratégie. J'en reviens encore et toujours au développement du «apprendre à apprendre». 
 
+!!! success "Succès des notes de cours interactives"
 
-
-Ajouter note sur les notes de cours interactives, exercices vidéos (tutoriels)
+     Dans la dernière année, mes collègues et moi avons développé des notes de cours interactives au format web. L'utilisation de nos connaissances dans notre domaine nous a permis de construire une plateforme qui répond à nos besoins et qui est représentative de ce que nous voulons enseigner. On peut y intégrer des vidéos, des notes de cours, des listes à cocher, des exemples de code et même des exercices en ligne. Cette plateforme nous permet de tendre vers le paradigme de l'apprentissage puisqu'elle rend les étudiants plus actifs et autonomes en plus de leur permettre d'apprendre à leur rythme. 
 
 
 ### Favoriser les apprentissages de mes étudiants
