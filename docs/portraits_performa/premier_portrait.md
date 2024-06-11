@@ -77,7 +77,7 @@ Je trouve que la mentalité de croissance est un concept intéressant. Je crois 
      Tel que mentionné dans la section des rapports aux savoirs, je vois la matière de mon programme comme un grand réseau de plusieurs concepts intereliés. Cependant, je trouve parfois difficile de situer le niveau de mes élèves à travers ce réseau. Comme je ne peux pas savoir exactement tout ce qu'ils ont appris dans leurs autres cours, et surtout ce dont ils se souviennent, j'utilise parfois des analogies avec d'autres domaines plutôt que de me baser sur ce qu'ils devraient connaître dans ma discipline. Je devrais mieux me renseigner auprès d'eux sur leurs acquis et connaissances antérieures afin de pouvoir réinvestir les notions qu'ils connaissent déjà et faire des comparaisons avec ce que je veux leur enseigner.  
 
 ### Favoriser les apprentissages de mes étudiants
-Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport à soi. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jSSdoExFUuw?si=RS4n6Z6x14OUZId_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Rapport au travail 
 ### Vision de l'enseignement, de l'apprentissage et de l'évaluation
