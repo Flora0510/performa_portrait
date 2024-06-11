@@ -98,6 +98,10 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 
      Pour transmettre certaines notions, je passe par des cours plus magistraux. Pour ceux-ci, j'ai toujours de la difficulté à trouver de quelle façon rendre le contenu dynamique et attrayant. J'essaie de poser des questions aux élèves et d'avoir des supports visuels attrayants, mais j'aimerais éventuellement sortir du paradigme de l'enseignement et trouver une manière qui tend vers celui de l'apprentissage afin de passer mes contenus. Peut-être en utilisant le jeu ou alors la classe inversée. 
 
+!!! question "Trouver ma place dans le rôle d'enseignante"
+
+     Je ne connaissais pas la théorie du connectivisme et en l'apprenant, je me suis sentie très interpellée. Elle valide que je n'ai pas à tout connaître et tout savoir, puisque dans mon domaine l'information change constamment. Je me sens plus à l'aise avec le rôle d'enseignante comme guide vers la connaissance plutôt que de l'enseignante comme moteur de transmission d'une connaissance absolue. À mon arrivée au cégep, ma plus grande crainte était de ne pas tout savoir et que cela déçoive mes élèves. Plus j'enseigne, plus je me rends compte que lorsque je ne sais pas quelque chose, c'est une belle opportunité de montrer à mes élèves comment chercher la bonne réponse. Même quand je sais la réponse, j'utilise maintenant cette stratégie. J'en reviens encore et toujours au développement du «apprendre à apprendre». 
+
 
 ### Favoriser les apprentissages de mes étudiants
 parler de correction finale seulement, plus de formatif. Axer sur l'étudiant... 
