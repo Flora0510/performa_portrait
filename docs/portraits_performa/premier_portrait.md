@@ -110,11 +110,12 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 ### Favoriser les apprentissages de mes étudiants
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xjgR_K7ev7Q?si=KT2nLu_QuLlIrUsW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ajouter liens avec la matière
+**Comment cette nouvelle méthode d'évaluation est en cohérence avec mon rapport au travail?**
+* L'utilisation de l'évaluation formative donne le droit à l'erreur aux étudiants. Cela est important pour moi puisque je veux que les étudiants se permettent de faire des erreurs pour pouvoir apprendre à partir de celles-ci.
+* Mon assiduité me permettra d'appliquer cette nouvelle méthode d'évaluation plus facilement. Je suis rigoureuse et j'ai de la facilité à faire des suivis. Ainsi, je crois que les étudiants se sentiront suffisamment encadrer pour tenter cette nouvelle expérience d'évaluation.
+* Si je le pouvais, j'aimerais mieux utiliser le système de notation succès/échec pour mes cours. Ce système me semble plus en adéquation avec ma pensée puisqu'il permet de valider si on maîtrise suffisament un sujet pour pouvoir continuer notre cheminement. Comme personne ne progresse au même ryhtme, ce peut être démoralisant pour certains d'être noté et de ne jamais arriver à leur objectif. Avec une notation succès/échec, je crois qu'on axe davantage sur le processus que sur le résultat final. 
 
-Droit à l'erreur: Favorisé par le formatif
 
-Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec vos conceptions en éducation quant au rapport au travail. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
 [^Gagnon]: [Gagnon, M. (2015). Quelle place pour les rapports aux savoirs dans l’enseignement?. Pédagogie collégiale, 29(1), 24-32.](https://eduq.info/xmlui/handle/11515/37441)
 
