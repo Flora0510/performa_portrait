@@ -57,6 +57,11 @@ Je trouve que la mentalité de croissance est un concept intéressant. Je crois 
 
 
 ### Rapport à soi et pratiques enseignantes
+!!! warning "Difficulté d'adéquation entre ma vision de l'intelligence et mon enseignement"
+
+     L'une des difficultés que je trouve en tant qu'enseignante est d'avoir un grand nombre d'apprenants. Chaque élève a son propre niveau et ses besoins. Je crois en la mentalité de croissance et au fait que chacun peut se développer s'il y met les efforts, mais le fait que chacun n'ait pas les mêmes efforts à faire peut susciter un sentiment d'inégalité entre les élèves. Par exemple, pour un travail technique qui demandait de reproduire une animation que j'avais faite, certains ont eu besoin de deux jours alors que d'autres ont dû travailler deux semaines. Cela a entraîner le mécontentement de certains élèves pour qui tout prend plus de temps. Voyant cela, dans un autre exercice à faire en classe, j'ai essayé d'intégrer des défis supplémentaires pour que ceux qui travaillent plus rapidement aient quelque chose à faire en attendant que les autres finissent. Cela cause alors un débalancement dans les apprentissages que les élèves font. En bref, pour l'instant je n'ai pas de solution parfaite. 
+    
+
 Décrivez comment vos conceptions quant au rapport à soi se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec vos conceptions actuelles en éducation.
 
 Décrire pourquoi intelligence = difficile d'enseigner à tous niveaux.
