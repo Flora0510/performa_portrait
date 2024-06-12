@@ -37,7 +37,7 @@ J'ai débuté mon parcours dans le domaine du théâtre. J'ai travaillé comme �
 ### Mes rapports aux savoirs 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wgs2Ybh_1d0?si=zXnMkxwpZ6VYp_6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tableau inspiré de Gagnon, M.[^Gagnon].
+Tableau inspiré de Gagnon, M. (Gagnon, 2015, p.25)[^Gagnon].
 
 
 !!! info "Note sur la vidéo"
@@ -50,7 +50,7 @@ Selon le tableau présenté dans le cours[^axes], ma vision dominante du monde o
 ### Rapports aux savoirs de mes élèves
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dI-g7UXtNXs?si=cJgdEvtbqRqMo-du" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tableau inspiré de Gagnon, M.[^Gagnon].   
+Tableau inspiré de Gagnon, M. (Gagnon, 2015, p.25)[^Gagnon].   
 
 En général, plus la session avance, plus les élèves se sentent investis face au savoir puisqu'ils doivent les appliquer. 
 
