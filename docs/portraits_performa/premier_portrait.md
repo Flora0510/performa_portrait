@@ -86,6 +86,12 @@ Approche par projet: Chaque étudiant doit participer à chaque étape du projet
     
 Approche par projet modifiée: Chaque étudiant choisit un rôle et se développe dans celui-ci. Un fait la programmation et l'autre les visuels par exemple. La semaine suivante, les étudiants se partagent ce qu'ils ont fait et leur méthode et ils échangent leur rôle. Cela favorise l'entraide entre eux et les élèves fourniront un meilleur engagement puisqu'ils seront les seuls à pouvoir faire avancer une composante particulière de leur projet. 
 
+**Comment la modification de mon approche par projet est en cohérence avec mon rapport à soi?**   
+
+* Cette approche modifiée se base sur le socioconstructivisme qui est une théorie qui me rejoint beaucoup. Je crois que les élèves ont beaucoup à apprendre entre eux.
+* La mentalité de croissance est encouragée par le fait que chacun ait un rôle distinct. On s'assure ainsi que chaque élève se sente important dans l'équipe et ait envie de travailler pour aider ses coéquipiers.
+* On développe notre pensée disciplinaire puisque dans le milieu du travail on est constamment appelés à travailler en équipe avec des gens qui ont des expertises différentes. 
+
 
 ## Rapport au travail 
 ### Vision de l'enseignement, de l'apprentissage et de l'évaluation
