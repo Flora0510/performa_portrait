@@ -132,7 +132,7 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 
 !!! info "Note"
 
-     La nouvelle méthode d'évaluation que je souhaite tester s'inspire du texte suivant: Aylwin, U. (1995). Apologie de l'évaluation formative. Pédagogie collégiale, 8(3), 24-32. [^aylwin]
+     La nouvelle méthode d'évaluation que je souhaite tester s'inspire du texte suivant: Aylwin, U. (1995). Apologie de l'évaluation formative. Pédagogie collégiale, 8(3), 24-32. [^aylwin]. Ce qui m'attire dans cette méthode est que l'élève cesse de se concentrer sur sa note pendant la session et qu'il axe plutôt ses priorités sur son apprentissage. 
   
 ## Bibliographie
 [^aylwin]: [Aylwin, U. (1995). Apologie de l'évaluation formative. Pédagogie collégiale, 8(3), 24-32.](https://cmontmorency365-my.sharepoint.com/:b:/g/personal/lora_boisvert_cmontmorency_qc_ca/EVxkRDfnLwdHl-yLQUmI0o4B5Jvpitmz4aPSULz0dYG4sA?e=Vcg9CR)
