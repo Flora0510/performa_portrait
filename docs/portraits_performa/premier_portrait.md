@@ -130,7 +130,12 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 * Mon assiduité me permettra d'appliquer cette nouvelle méthode d'évaluation plus facilement. Je suis rigoureuse et j'ai de la facilité à faire des suivis. Ainsi, je crois que les étudiants se sentiront suffisamment encadrés pour tenter cette nouvelle expérience d'évaluation.   
 * Si je le pouvais, j'aimerais mieux utiliser le système de notation succès/échec pour mes cours. Ce système me semble plus en adéquation avec ma pensée puisqu'il permet de vérifier si on maîtrise suffisamment un sujet pour pouvoir continuer notre cheminement. C'est d'ailleurs ce que Hétu explique dans son article: *[la mention succès/échec] pourrait permettre de contourner la tendance des étudiants à ne s’investir que lorsque ça compte et, du coup, de réduire l’anxiété de performance, de les responsabiliser dans leurs apprentissages, de les amener à s’autoévaluer et à s’autoréguler [...]* (Hétu, 2019, p.6)[^hetu]. Comme personne ne progresse au même rythme, ce peut être démoralisant pour certains d'être noté et de ne jamais arriver à leur objectif. Avec une notation succès/échec, je crois qu'on axe davantage sur le processus que sur le résultat final. 
 
+!!! info "Note"
+
+  La nouvelle méthode d'évaluation que je souhaite tester s'inspire du texte suivant: Aylwin, U. (1995). Apologie de l'évaluation formative. Pédagogie collégiale, 8(3), 24-32. [^aylwin]
+  
 ## Bibliographie
+[^aylwin]: [Aylwin, U. (1995). Apologie de l'évaluation formative. Pédagogie collégiale, 8(3), 24-32.](https://cmontmorency365-my.sharepoint.com/:b:/g/personal/lora_boisvert_cmontmorency_qc_ca/EVxkRDfnLwdHl-yLQUmI0o4B5Jvpitmz4aPSULz0dYG4sA?e=Vcg9CR)
 
 [^axes]: [Carle. S. (2021). Tableau synthèse des différents rapports aux savoirs. Cours PRF500 et PRF600, Module 1, Université de Sherbrooke, Faculté d’éducation](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
 
