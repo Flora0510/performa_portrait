@@ -81,6 +81,7 @@ Je trouve que la mentalité de croissance est un concept intéressant. Je crois 
 
 **En résumé**    
 Approche par projet: Chaque étudiant doit participer à chaque étape du projet. Les élèves commencent par faire les visuels ensemble, puis ensuite la programmation et ainsi de suite.     
+    
 Approche par projet modifiée: Chaque étudiant choisit un rôle et se développe dans celui-ci. Un fait la programmation et l'autre les visuels par exemple. La semaine suivante, les étudiants se partagent ce qu'ils ont fait et leur méthode et ils échangent leur rôle. Cela favorise l'entraide entre eux et les élèves fourniront un meilleur engagement puisqu'ils seront les seuls à pouvoir faire avancer une composante particulière de leur projet. 
 
 
