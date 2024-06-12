@@ -79,8 +79,8 @@ Je trouve que la mentalité de croissance est un concept intéressant. Je crois 
 ### Favoriser les apprentissages de mes étudiants
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jSSdoExFUuw?si=RS4n6Z6x14OUZId_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**En résumé**
-Approche par projet: Chaque étudiant doit participer à chaque étape du projet. Les élèves commencent par faire les visuels ensemble, puis ensuite la programmation et ainsi de suite. 
+**En résumé**    
+Approche par projet: Chaque étudiant doit participer à chaque étape du projet. Les élèves commencent par faire les visuels ensemble, puis ensuite la programmation et ainsi de suite.     
 Approche par projet modifiée: Chaque étudiant choisit un rôle et se développe dans celui-ci. Un fait la programmation et l'autre les visuels par exemple. La semaine suivante, les étudiants se partagent ce qu'ils ont fait et leur méthode et ils échangent leur rôle. Cela favorise l'entraide entre eux et les élèves fourniront un meilleur engagement puisqu'ils seront les seuls à pouvoir faire avancer une composante particulière de leur projet. 
 
 
