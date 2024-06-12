@@ -100,11 +100,11 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 
 !!! success "Succès de l'apprentissage par le jeu"
 
-     Dans mon premier cours de réalité mixte, j'ai créé un tutoriel-jeu qui permet aux étudiants d'apprendre les bases du logiciel que nous verrons pendant la session tout en s'amusant. Cet élément est celui qui a eu le plus de succès dans mes cours. Les élèves étaient totalement investis dans la découverte ludique. Cette façon de faire tirée du paradigme de l'apprentissage a beaucoup stimulé les étudiants. J'aimerais utiliser plus d'exercices de ce genre dans mes cours, la seule difficulté réside dans le temps requis pour créer ce genre d'activité!  
+     Dans mon premier cours de réalité mixte, j'ai créé un tutoriel-jeu qui permet aux étudiants d'apprendre les bases du logiciel que nous verrons pendant la session tout en s'amusant. Cet élément est celui qui a eu le plus de succès auprès des étudiants. Les élèves étaient totalement investis dans la découverte ludique. Cette façon de faire tirée du paradigme de l'apprentissage a beaucoup stimulé les étudiants. J'aimerais utiliser plus d'exercices de ce genre dans mes cours. La seule difficulté réside dans le temps requis pour créer ce genre d'activité!  
 
 !!! warning "Difficulté à sortir du mode magistral"
 
-     Pour transmettre certaines notions, je passe par des cours plus magistraux. Pour ceux-ci, j'ai toujours de la difficulté à trouver de quelle façon rendre le contenu dynamique et attrayant. J'essaie de poser des questions aux élèves et d'avoir des supports visuels attrayants, mais j'aimerais éventuellement sortir du paradigme de l'enseignement et trouver une manière qui tend vers celui de l'apprentissage afin de passer mes contenus. Peut-être en utilisant le jeu ou alors la classe inversée. 
+     Pour transmettre certaines notions, je passe par des cours plus magistraux. Pour ceux-ci, j'ai toujours de la difficulté à trouver de quelle façon rendre le contenu dynamique et attrayant. J'essaie de poser des questions aux élèves et d'avoir des supports visuels attrayants, mais j'aimerais éventuellement sortir du paradigme de l'enseignement et trouver une manière qui tend vers celui de l'apprentissage afin de passer mes contenus. Peut-être en utilisant la classe inversée. 
 
 !!! question "Trouver ma place dans le rôle d'enseignante"
 
