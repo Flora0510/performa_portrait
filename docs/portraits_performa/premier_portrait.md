@@ -22,7 +22,7 @@ J'ai débuté mon parcours dans le domaine du théâtre. J'ai travaillé comme �
 
 !!! info "Honnêteté, intégrité, et sincérité"
 
-    Cette force se révèle utile lors de la notation des étudiants. Pour moi il est important que chacun soit évalué de façon honnête. Je donne autant des bons commentaires que d'autres à améliorer pour aider les étudiants. 
+    Cette force se révèle utile lors de la notation des étudiants. Pour moi il est important que chacun soit évalué de façon honnête et juste. Je donne autant des bons commentaires que d'autres à améliorer pour que chacun puisse développer son potentiel. 
 
 
 !!! tip "Gentillesse et générosité"
