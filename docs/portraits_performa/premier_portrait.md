@@ -90,8 +90,7 @@ Approche par projet modifiée: Chaque étudiant choisit un rôle et se développ
 
 * Cette approche modifiée se base sur le socioconstructivisme qui est une théorie qui me rejoint beaucoup. Je crois que les élèves ont beaucoup à apprendre entre eux.
 * La mentalité de croissance est encouragée par le fait que chacun ait un rôle distinct. On s'assure ainsi que chaque élève se sente important dans l'équipe et ait envie de travailler pour aider ses coéquipiers.
-* On développe notre pensée disciplinaire puisque dans le milieu du travail on est constamment appelés à travailler en équipe avec des gens qui ont des expertises différentes.
-* En abordant le projet comme un tout, on se rapproche du paradigme de l'apprentissage qu'on verra dans le rapport au travail. En effet, tel que mentionné dans le Carrefour de la réussite au collégial: *[Il est important] de ne pas aborder les connaissances à acquérir de manière compartimentée et décontextualisée, mais dans leurs interactions et en relation avec des contextes qui donnent un sens à leur utilisation.* (Carrefour de la réussite au collégial, 2022, p.155)[^carrefour]
+* On développe notre pensée disciplinaire puisque dans le milieu du travail on est constamment appelés à travailler en équipe avec des gens qui ont des expertises différentes. En abordant le projet comme un tout, on se rapproche du paradigme de l'apprentissage qu'on verra dans le rapport au travail. En effet, tel que mentionné dans le Carrefour de la réussite au collégial: *[Il est important] de ne pas aborder les connaissances à acquérir de manière compartimentée et décontextualisée, mais dans leurs interactions et en relation avec des contextes qui donnent un sens à leur utilisation.* (Carrefour de la réussite au collégial, 2022, p.155)[^carrefour] Aborder l'approche par projet avec une méthode qui ressemble au marché du travail me semble une bonne façon de donner un sens è l'apprentissage que font les étudiants. 
 
 
 ## Rapport au travail 
