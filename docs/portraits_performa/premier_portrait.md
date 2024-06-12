@@ -90,7 +90,8 @@ Approche par projet modifiée: Chaque étudiant choisit un rôle et se développ
 
 * Cette approche modifiée se base sur le socioconstructivisme qui est une théorie qui me rejoint beaucoup. Je crois que les élèves ont beaucoup à apprendre entre eux.
 * La mentalité de croissance est encouragée par le fait que chacun ait un rôle distinct. On s'assure ainsi que chaque élève se sente important dans l'équipe et ait envie de travailler pour aider ses coéquipiers.
-* On développe notre pensée disciplinaire puisque dans le milieu du travail on est constamment appelés à travailler en équipe avec des gens qui ont des expertises différentes. 
+* On développe notre pensée disciplinaire puisque dans le milieu du travail on est constamment appelés à travailler en équipe avec des gens qui ont des expertises différentes.
+* En abordant le projet comme un tout, on se rapproche du paradigme de l'apprentissage qu'on verra dans le rapport au travail. En effet, tel que mentionné dans le Carrefour de la réussite au collégial: *[Il est important] de ne pas aborder les connaissances à acquérir de manière compartimentée et décontextualisée, mais dans leurs interactions et en relation avec des contextes qui donnent un sens à leur utilisation.* (Carrefour de la réussite au collégial, 2022, p.155)[^carrefour]
 
 
 ## Rapport au travail 
@@ -128,10 +129,12 @@ Je dirais que mes pratiques enseignantes mélangent plusieurs théories. Même s
 
 * L'utilisation de l'évaluation formative donne le droit à l'erreur aux étudiants. Cela est important pour moi puisque je veux que les étudiants se permettent de faire des erreurs pour pouvoir apprendre à partir de celles-ci.   
 * Mon assiduité me permettra d'appliquer cette nouvelle méthode d'évaluation plus facilement. Je suis rigoureuse et j'ai de la facilité à faire des suivis. Ainsi, je crois que les étudiants se sentiront suffisamment encadrés pour tenter cette nouvelle expérience d'évaluation.   
-* Si je le pouvais, j'aimerais mieux utiliser le système de notation succès/échec pour mes cours. Ce système me semble plus en adéquation avec ma pensée puisqu'il permet de vérifier si on maîtrise suffisamment un sujet pour pouvoir continuer notre cheminement.C'est d'ailleurs ce que Hétu explique dans son article: *[la mention succès/échec] pourrait permettre de contourner la tendance des étudiants à ne s’investir que lorsque ça compte et, du coup, de réduire l’anxiété de performance, de les responsabiliser dans leurs apprentissages, de les amener à s’autoévaluer et à s’autoréguler [...]* (Hétu, 2019, p.6)[^hetu]. Comme personne ne progresse au même rythme, ce peut être démoralisant pour certains d'être noté et de ne jamais arriver à leur objectif. Avec une notation succès/échec, je crois qu'on axe davantage sur le processus que sur le résultat final. 
+* Si je le pouvais, j'aimerais mieux utiliser le système de notation succès/échec pour mes cours. Ce système me semble plus en adéquation avec ma pensée puisqu'il permet de vérifier si on maîtrise suffisamment un sujet pour pouvoir continuer notre cheminement. C'est d'ailleurs ce que Hétu explique dans son article: *[la mention succès/échec] pourrait permettre de contourner la tendance des étudiants à ne s’investir que lorsque ça compte et, du coup, de réduire l’anxiété de performance, de les responsabiliser dans leurs apprentissages, de les amener à s’autoévaluer et à s’autoréguler [...]* (Hétu, 2019, p.6)[^hetu]. Comme personne ne progresse au même rythme, ce peut être démoralisant pour certains d'être noté et de ne jamais arriver à leur objectif. Avec une notation succès/échec, je crois qu'on axe davantage sur le processus que sur le résultat final. 
 
 
 [^axes]: [Carle. S. (2021). Tableau synthèse des différents rapports aux savoirs. Cours PRF500 et PRF600, Module 1, Université de Sherbrooke, Faculté d’éducation](https://drive.google.com/file/d/1Es50qbRIe5G5vlZtYNL88n6gVbQrSaTE/view)) 
+
+[^carrefour]: [Carrefour de la réussite au collégial (2002). Du paradigme de l’enseignement… au paradigme de l’apprentissage. Trousse 7 Modèles d’apprentissage (p. 155).](https://drive.google.com/file/d/1u5099ZIMgtUpE75b1w2zizjSgXhkB_QC/view)
 
 [^Gagnon]: [Gagnon, M. (2015). Quelle place pour les rapports aux savoirs dans l’enseignement?. Pédagogie collégiale, 29(1), 24-32.](https://eduq.info/xmlui/handle/11515/37441)
 
