@@ -8,6 +8,12 @@ Synthétisez les éléments significatifs qui émergent de vos réflexions quant
 Décrivez comment ces éléments quant au rapport à la société à travers l’école se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
 ### Le rôle de la personne enseignante au collégial
+![Première impression du rôle](image/role1.jpg)
+
+![Deuxième impression du rôle](image/Role2.jpg)
+
+
+
 Synthétisez les éléments significatifs qui émergent de vos réflexions quant au rapport à la société à travers l’école 
 Décrivez comment ces éléments quant au rapport à la société à travers l’école se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
