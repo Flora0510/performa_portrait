@@ -10,6 +10,13 @@ Décrivez comment ces éléments quant au rapport à la société à travers l�
 ### Le rôle de la personne enseignante au collégial
 ![Première impression du rôle](image/role1.jpg)
 
+Pendant ce module, ma perception du rôle de l'enseignant s'est légèrement modifiée. Avant les lectures, pour moi, le rôle de l'enseignant était de transmettre des savoirs aux étudiants, mais surtout de qui les guider dans leurs apprentissages. J'ai utilisé la métaphore du jardinier qui me semblait à propos puisque l'enseignant donne à ses élèves (fleurs) les ressources dont ils ont besoin pour qu'ils puissent ensuite éclore et s'épanouir. Chacun pousse de façon différente et ne nécessite pas exactement les mêmes soins, le rôle de l'enseignant est de prendre cela en compte dans la transmission des savoirs.
+
+
+Les lectures m'ont permis de consolider ma vision du rôle de l'enseignant. Oui, l'enseignant est un guide et plutôt que de transmettre ses connaissances, il devrait apprendre à créer des situations qui permettront aux étudiants de développer leurs compétences et leurs savoirs. L'élève est, oui une fleur qui pousse lorsqu'on lui donne les bons éléments, mais surtout une fleur qui se développe à son rythme. Dans le texte de Barbeau et Doucet, on met d'ailleurs cela en lumière: 
+
+mais aussi un oiseau qu'on doit pousser en bas du nid pour qu'il puisse apprendre par lui-même à voler de ses propres ailes. C'est par la pratique que l'étudiants se développe et découvre ses compétences.
+
 ![Deuxième impression du rôle](image/Role2.jpg)
 
 
