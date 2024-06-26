@@ -24,16 +24,9 @@ Les lectures m'ont permis de consolider ma vision du rôle de l'enseignant. Oui,
 ### Favoriser les apprentissages de mes étudiants
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport à la société à travers l’école. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
-## Rapport aux collègues 
+## Rapport aux collègues et aux responsabilités
 Synthétisez les éléments significatifs qui émergent de vos réflexions quant au rapport aux collègues : l’approche programme; et au rapport aux responsabilités : l’autonomie professionnelle, la pratique réflexive et l’éthique professionnelle.  
 ### L'approche programme
-Décrivez comment ces éléments quant au rapport aux collègues et le rapport aux responsabilités se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
-
-### Favoriser les apprentissages de mes étudiants
-Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport aux collègues et le rapport aux responsabilités. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
-
-
-## Rapport aux responsabilités
 Décrivez comment ces éléments quant au rapport aux collègues et le rapport aux responsabilités se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
 ### L'autonomie professionnelle
