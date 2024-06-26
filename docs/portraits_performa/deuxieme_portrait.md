@@ -47,4 +47,4 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 
 ## Bibliographie
 
-[^bon prof]: [Barbeau, D. et Doucet, S. (2009). En 2009, c’est quoi un « bon prof » ?. Pédagogie collégiale, 22 (3), 35-37.] (https://eduq.info/xmlui/handle/11515/21746)
+[^bon prof]: [Barbeau, D. et Doucet, S. (2009). En 2009, c’est quoi un « bon prof » ?. Pédagogie collégiale, 22 (3), 35-37.](https://eduq.info/xmlui/handle/11515/21746)
