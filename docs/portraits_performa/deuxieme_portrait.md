@@ -17,10 +17,9 @@ Les lectures m'ont permis de consolider ma vision du rôle de l'enseignant. Oui,
 
 ![Deuxième impression du rôle](image/Role2.jpg)
 
- !!! example "Exemple rôle de l'enseignant"
+!!! example "Exemple rôle de l'enseignant"
 
     Sans en avoir nécessairement conscience, je crée souvent des situations d'apprentissage pour les étudiants. Par exemple, dans mon cours d'introduction au marché du travail, j'organise avec les élèves un *speedjobbing*. Cette activité permet aux étudiants de rencontrer une quinzaine d'employeur et de faire des entrevues de 3 à 4 minutes avec chacun d'eux. Cette activité est clairement une situation créée qui permet aux étudiants de développer les compétences qui leur seront nécessaires lorsqu'ils iront passer des entrevues d'embauche. Par le biais de situation réelles comme celle-ci, on développe de meilleure compétences chez les élèves que si on les fait pratiquer entre pairs ou dans de fausses mises en situation. Ainsi, lorsqu'on peut se le permettre, c'est enrichissant pour notre enseignement. 
-    
 
 ### Favoriser les apprentissages de mes étudiants
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport à la société à travers l’école. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
