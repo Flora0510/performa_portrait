@@ -6,7 +6,8 @@
 Dans les textes concernant l'approche par compétence, on stipulait qu'on ne devait pas nécessairement voir les cours comme des entités séparées, mais bien comme un tout interelié. Les élèves ont besoin des notions de chaque cours oui, mais ils doivent aussi apprendre à les assembler ensemble. Plutôt que de donner de grand cours théoriques, on proposait de créer des mise en situation à travers lesquelles les étudiants pourront se développer. Oui, ils ont des notions à apprendre, mais pas que, ils ont aussi des compétences à acquérir. 
 
 **Qu'est-ce qu'une compétence?**
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3r97W7TMF24?si=q9IhRECv38uhNaQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Définition inspirée de Basque, J. (Basque, 2015)[^basque].
 
 ### Le rôle de la personne enseignante au collégial
 ![Première impression du rôle](image/role1.jpg)
