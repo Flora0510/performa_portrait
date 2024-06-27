@@ -42,12 +42,12 @@ Les lectures m'ont permis de consolider ma vision du rôle de l'enseignant. Oui,
 
 Ici, on revisite la proposition du portrait 1.[^lora]
 
-**En résumé**
+**En résumé**    
 Cette précision de l'approche par projet stipule que l'organisation du projet sera amenée à la façon du marché du travail. Ainsi, la classe représentera une équipe de travail qui doit créer un jeu vidéo. Chaque étudiant aura un rôle. La méthode agile qui est beaucoup utilisée dans les organisations de multimédia pourra être expérimentée par les élèves. Ils seront également tous intégrés dans les processus de décision au cours du processus créatif. 
 
-**Comment cette modification de l'approche par projet consolide l'approche par compétence et mon rôle en tant qu'enseignante?**
-* Fonctionner à la façon d'une entreprise dans la salle de classe permet aux étudiants de mieux comprendre les réalités du marché du travail. Cela leur permet aussi de développer des compétences qui ne sont pas stimulées par les cours magistraux.
-* Le rôle de l'enseignant est en totale cohérence avec ma nouvelle vision qui est de guider mes étudiants à travers les apprentissages que je souhaite qu'ils réalisent au courant de leur session.
+**Comment cette modification de l'approche par projet consolide l'approche par compétence et mon rôle en tant qu'enseignante?**    
+* Fonctionner à la façon d'une entreprise dans la salle de classe permet aux étudiants de mieux comprendre les réalités du marché du travail. Cela leur permet aussi de développer des compétences qui ne sont pas stimulées par les cours magistraux.   
+* Le rôle de l'enseignant est en totale cohérence avec ma nouvelle vision qui est de guider mes étudiants à travers les apprentissages que je souhaite qu'ils réalisent au courant de leur session.   
 
 
 
