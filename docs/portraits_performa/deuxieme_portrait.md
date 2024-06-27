@@ -11,6 +11,13 @@ Définition inspirée de Basque, J. (Basque, 2015)[^basque].
 
 
 **Quelques pistes pour stimuler l'acquisition des compétences**
+!!! success "Projet avec d'autres cours"
+
+     Avec certains de mes collègues, nous créons parfois des projets conjoints à réaliser par nos élèves. Dans nos cours respectifs, nous évaluons des éléments différents d'un même projet que nos élèves produisent dans le cadre de nos cours. Cela permet à nos étudiants d'avoir plus de temps pour travailler sur un même projet. De plus, ils développent plus de compétences puisque plutôt que de voir les notions chacun de notre côté, nous essayons d'utiliser les projets pour démontrer les liens existants entre les différents concepts. Par exemple, dans les cours de vidéo et d'animation 2D, nous avons fait une seule vidéo regroupant ces deux médiums.  
+
+!!! warning "Difficulté avec l'évaluation des compétences"
+
+     La BD de T. Trâm[^tram] met en lumière la difficulté d'évaluer l'acquisition de compétences. Malheureusement, il manque encore d'adéquation entre le système scolaire et les approches qu'on recommande en éducation. En effet, comment s'assurer que l'étudiant acquiert les compétences qu'on souhaite développer chez lui si on fait seulement une situation d'apprentissage et qu'il apprend à travers celle-ci? Si il se trompe en chemin est-ce que cela signifie qu'il coule? Dans le texte, on propose de faire un portfolio de sa progression et que l'étudiant soit évalué sur la démarche et ses réflexions. Ce serait possible, mais ce n'est pas nécessairement l'approche que je préfère. J'aimais bien l'idée proposée dans le portrait 1 de faire beaucoup d'évaluations formatives avec une sommative à la fin. Je crois que cette méthode serait aussi compatible avec l'approche par compétence.  
 
 
 ### Le rôle de la personne enseignante au collégial
