@@ -19,6 +19,9 @@ Définition inspirée de Basque, J. (Basque, 2015)[^basque].
 
      La BD de T. Trâm[^tram] met en lumière la difficulté d'évaluer l'acquisition de compétences. Malheureusement, il manque encore d'adéquation entre le système scolaire et les approches qu'on recommande en éducation. En effet, comment s'assurer que l'étudiant acquiert les compétences qu'on souhaite développer chez lui si on fait seulement une situation d'apprentissage et qu'il apprend à travers celle-ci? Si il se trompe en chemin est-ce que cela signifie qu'il coule? Dans le texte, on propose de faire un portfolio de sa progression et que l'étudiant soit évalué sur la démarche et ses réflexions. Ce serait possible, mais ce n'est pas nécessairement l'approche que je préfère. J'aimais bien l'idée proposée dans le portrait 1 de faire beaucoup d'évaluations formatives avec une sommative à la fin. Je crois que cette méthode serait aussi compatible avec l'approche par compétence.  
 
+!!! success "Stages de fin d'étude"
+
+     Dans notre technique, les stages de fin d'étude sont obligatoires pour l'obtention du diplôme. Pour moi, ceux-ci représentent l'approche par compétence par excellence. En stage, les étudiants sont amenés à utiliser toutes les compétences qu'ils ont acquises dans leur parcours collégial et à faire des liens entre leurs connaissances pour choisir comment agir dans chaque situation qui leur est présentée. Si certains cours pouvaient reprendre la dynamique du marché du travail et la recréer dans une classe, cela pourrait enrichir l'apprentissage des élèves avant l'étape finale que représente le stage.  
 
 ### Le rôle de la personne enseignante au collégial
 ![Première impression du rôle](image/role1.jpg)
