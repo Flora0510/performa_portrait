@@ -1,7 +1,6 @@
 # Portrait 2
 
 ## Rapport à la société à travers l'école
-Synthétisez les éléments significatifs qui émergent de vos réflexions quant au rapport à la société à travers l’école : l’approche par compétence et la mobilisation des ressources; et le rôle de la personne enseignante au collégial.
 
 ### L’approche par compétence et la mobilisation des ressources
 Synthétisez les éléments significatifs qui émergent de vos réflexions quant au rapport à la société à travers l’école 
