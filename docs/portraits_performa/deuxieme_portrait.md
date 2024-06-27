@@ -42,7 +42,14 @@ Les lectures m'ont permis de consolider ma vision du rôle de l'enseignant. Oui,
 
 Ici, on revisite la proposition du portrait 1.[^lora]
 
-Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport à la société à travers l’école. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
+**En résumé**
+Cette précision de l'approche par projet stipule que l'organisation du projet sera amenée à la façon du marché du travail. Ainsi, la classe représentera une équipe de travail qui doit créer un jeu vidéo. Chaque étudiant aura un rôle. La méthode agile qui est beaucoup utilisée dans les organisations de multimédia pourra être expérimentée par les élèves. Ils seront également tous intégrés dans les processus de décision au cours du processus créatif. 
+
+**Comment cette modification de l'approche par projet consolide l'approche par compétence et mon rôle en tant qu'enseignante?**
+* Fonctionner à la façon d'une entreprise dans la salle de classe permet aux étudiants de mieux comprendre les réalités du marché du travail. Cela leur permet aussi de développer des compétences qui ne sont pas stimulées par les cours magistraux.
+* Le rôle de l'enseignant est en totale cohérence avec ma nouvelle vision qui est de guider mes étudiants à travers les apprentissages que je souhaite qu'ils réalisent au courant de leur session.
+
+
 
 ## Rapport aux collègues et aux responsabilités
 
