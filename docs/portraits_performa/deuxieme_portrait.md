@@ -40,6 +40,8 @@ Les lectures m'ont permis de consolider ma vision du rôle de l'enseignant. Oui,
 ### Favoriser les apprentissages de mes étudiants
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GgC5lzPkzeI?si=QSxg0atZkc-WoFHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Ici, on revisite la proposition du portrait 1.[^lora]
+
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport à la société à travers l’école. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
 ## Rapport aux collègues et aux responsabilités
@@ -62,5 +64,7 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 ## Bibliographie
 
 [^bon prof]: [Barbeau, D. et Doucet, S. (2009). En 2009, c’est quoi un « bon prof » ?. Pédagogie collégiale, 22 (3), 35-37.](https://eduq.info/xmlui/handle/11515/21746)
-[^basque]: [Basque, J. (2015). Le concept de compétences : Quelques définitions. Dans Projet MAPES (Modélisation de l’approche-programme en enseignement supérieur), Réseau de l’Université du Québec.](https://pedagogie.uquebec.ca/sites/default/files/documents/outils/r_2.1-1_le_concept_de_competence_quelques_definitions.pdf)   
+[^basque]: [Basque, J. (2015). Le concept de compétences : Quelques définitions. Dans Projet MAPES (Modélisation de l’approche-programme en enseignement supérieur), Réseau de l’Université du Québec.](https://pedagogie.uquebec.ca/sites/default/files/documents/outils/r_2.1-1_le_concept_de_competence_quelques_definitions.pdf)  
+
+[^lora]: [Boisvert, L. (2024). Portrait 1. Dans Blogue personnel.](https://flora0510.github.io/performa_portrait/portraits_performa/premier_portrait.html#favoriser-les-apprentissages-de-mes-etudiants)
 [^tram]:[Dang Ngoc, T. Trâm. (2021, 1 mars). Approche par compétences. Dans Blogue personnel.](https://bit.ly/3qIGbzb)
