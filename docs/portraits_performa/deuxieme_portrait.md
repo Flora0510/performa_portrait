@@ -3,8 +3,10 @@
 ## Rapport à la société à travers l'école
 
 ### L’approche par compétence et la mobilisation des ressources
-Synthétisez les éléments significatifs qui émergent de vos réflexions quant au rapport à la société à travers l’école 
-Décrivez comment ces éléments quant au rapport à la société à travers l’école se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
+Dans les textes concernant l'approche par compétence, on stipulait qu'on ne devait pas nécessairement voir les cours comme des entités séparées, mais bien comme un tout interelié. Les élèves ont besoin des notions de chaque cours oui, mais ils doivent aussi apprendre à les assembler ensemble. Plutôt que de donner de grand cours théoriques, on proposait de créer des mise en situation à travers lesquelles les étudiants pourront se développer. Oui, ils ont des notions à apprendre, mais pas que, ils ont aussi des compétences à acquérir. 
+
+**Qu'est-ce qu'une compétence?**
+
 
 ### Le rôle de la personne enseignante au collégial
 ![Première impression du rôle](image/role1.jpg)
