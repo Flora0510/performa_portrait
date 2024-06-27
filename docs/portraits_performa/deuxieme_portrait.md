@@ -7,7 +7,8 @@ Dans les textes concernant l'approche par compétence, on stipulait qu'on ne dev
 
 **Qu'est-ce qu'une compétence?**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3r97W7TMF24?si=q9IhRECv38uhNaQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Définition inspirée de Basque, J. (Basque, 2015)[^basque].
+Définition inspirée de Basque, J. (Basque, 2015)[^basque].     
+
 
 **Quelques pistes pour stimuler l'acquisition des compétences**
 
