@@ -83,6 +83,6 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 
 [^lora]: [Boisvert, L. (2024). Portrait 1. Dans Blogue personnel.](https://flora0510.github.io/performa_portrait/portraits_performa/premier_portrait.html#favoriser-les-apprentissages-de-mes-etudiants)
 
-[^steph]: [Carles, S. (2022) L'autonomie professionnelle. Collège Montmorency.](https://pedagogie.uquebec.ca/sites/default/files/documents/outils/r_2.1-1_le_concept_de_competence_quelques_definitions.pdf](https://moodle.usherbrooke.ca/pluginfile.php/4181938/mod_page/content/47/Carle_Autonomie%20professionnelle_2022.pdf)  
+[^steph]: [Carles, S. (2022) L'autonomie professionnelle. Collège Montmorency.](https://moodle.usherbrooke.ca/pluginfile.php/4181938/mod_page/content/47/Carle_Autonomie%20professionnelle_2022.pdf)  
 
 [^tram]:[Dang Ngoc, T. Trâm. (2021, 1 mars). Approche par compétences. Dans Blogue personnel.](https://bit.ly/3qIGbzb)
