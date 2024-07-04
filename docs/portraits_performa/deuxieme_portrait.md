@@ -60,6 +60,10 @@ l’apprentissage de leur texte… Les élèves, eux, ne peuvent se contenter d�
 Décrivez comment ces éléments quant au rapport aux collègues et le rapport aux responsabilités se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
 ### L'autonomie professionnelle
+![L'autonomie professionnelle](image/autono.jpg)
+Dans le texte de Stéphanie Carle[^steph], on propose une autonomie professionnelle en deux temps, soit celle qui est propre à l'enseignant et l'autonomie collective. De mon côté, j'ai pris ces deux concepts et les ai insérés sur un axe. Pour ma part, je crois que l'autonomie professionnelle est un continuum et qu'elle fluctue selon les situations. On doit prendre certaines décisions de façon plus individuelles, mais, souvent, on doit se référer à la collectivité pour s'assurer de bien faire les choses. Comme nous travaillons tous pour la réussite de nos élèves, il est normal, voire même souhaitable que l'on se consulte autant pour les décisions qui concernent notre département que pour celles qui sont propres à nos cours. Oui on peut choisir la façon dont on enseigne, mais, pour moi, une équipe enseignante forte est soudée et a une façon commune de voir les choses. 
+
+
 Décrivez comment ces éléments quant au rapport aux collègues et le rapport aux responsabilités se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
 ### La pratique réflexive
@@ -77,4 +81,7 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 [^basque]: [Basque, J. (2015). Le concept de compétences : Quelques définitions. Dans Projet MAPES (Modélisation de l’approche-programme en enseignement supérieur), Réseau de l’Université du Québec.](https://pedagogie.uquebec.ca/sites/default/files/documents/outils/r_2.1-1_le_concept_de_competence_quelques_definitions.pdf)  
 
 [^lora]: [Boisvert, L. (2024). Portrait 1. Dans Blogue personnel.](https://flora0510.github.io/performa_portrait/portraits_performa/premier_portrait.html#favoriser-les-apprentissages-de-mes-etudiants)
+
+[^steph]: [Carles, S. (2022) L'autonomie professionnelle. Collège Montmorency.](https://pedagogie.uquebec.ca/sites/default/files/documents/outils/r_2.1-1_le_concept_de_competence_quelques_definitions.pdf](https://moodle.usherbrooke.ca/pluginfile.php/4181938/mod_page/content/47/Carle_Autonomie%20professionnelle_2022.pdf)  
+
 [^tram]:[Dang Ngoc, T. Trâm. (2021, 1 mars). Approche par compétences. Dans Blogue personnel.](https://bit.ly/3qIGbzb)
