@@ -57,6 +57,8 @@ l’apprentissage de leur texte… Les élèves, eux, ne peuvent se contenter d�
 ## Rapport aux collègues et aux responsabilités
 
 ### L'approche programme
+L'approche programme est au coeur de notre travail en tant qu'enseignant. Elle implique que nous ne sommes pas des acteurs séparés qui donnons chacun nos cours, mais bien les acteurs d'un tout, d'un programme, qui vise à développer plusieurs compétences chez des étudiants. Cette définition de Prégent, Bernard et Kozanitis (2009) dans le texte de Stéphanie Carle résume bien le tout: *Le deuxième modèle d’organisation de l’enseignement est l’approche-programme. Dans ce dernier cas, l’ensemble des cours du programme repose sur un projet de formation (lignes directrices, principes et applications) élaboré et poursuivi de manière collective et longitudinale par le corps professoral (professeurs et chargés de cours) et les leaders responsables de l’enseignement, dans un esprit de constante collaboration et collégialité. Personne ne s’y sent vraiment propriétaire d’un cours, mais tous collaborent, dans les cours qui leur sont confiés, à la réussite de l’ensemble du programme d’études, et cela, dans une organisation et sous la direction de personnes qui favorisent la transparence, l’interaction entre les cours et les professeurs, la rétroaction et l’amélioration régulière des divers éléments du programme d’études offert aux étudiants. »* (Carle, 2022, p.3)[^steph2]
+
 Décrivez comment ces éléments quant au rapport aux collègues et le rapport aux responsabilités se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
 ### L'autonomie professionnelle
@@ -94,6 +96,8 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 [^lora]: [Boisvert, L. (2024). Portrait 1. Dans Blogue personnel.](https://flora0510.github.io/performa_portrait/portraits_performa/premier_portrait.html#favoriser-les-apprentissages-de-mes-etudiants)
 
 [^steph]: [Carles, S. (2022) L'autonomie professionnelle. Collège Montmorency.](https://moodle.usherbrooke.ca/pluginfile.php/4181938/mod_page/content/47/Carle_Autonomie%20professionnelle_2022.pdf)  
+
+[^steph2]: [Carles, S. (2022) L'approche programme au collégial. Collège Montmorency.](https://moodle.usherbrooke.ca/pluginfile.php/4181938/mod_page/content/47/Carle_Approche%20programme_2022.pdf)  
 
 [^tram]:[Dang Ngoc, T. Trâm. (2021, 1 mars). Approche par compétences. Dans Blogue personnel.](https://bit.ly/3qIGbzb)
 
