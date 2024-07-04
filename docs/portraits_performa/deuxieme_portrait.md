@@ -68,6 +68,18 @@ Dans le texte de Stéphanie Carle[^steph], on propose une autonomie professionne
     Dans le cadre du cours d'introduction au marché du travail, mes collègues m'ont offert de reprendre leur contenu et de l'adapter. C'est ce que j'ai fait et je me suis parfois sentie pris dans des évaluations qui ne correspondaient pas nécessairement à mes rapports aux savoirs. Ainsi, lorqu'est venu le temps de monter le cours de réalité virtuelle, j'ai plutôt demandé quels étaient les contenus essentiels selon les enseignants. J'ai ensuite vérifié le cahier de programme et j'ai monté mon cours à partir de ces données. Cette manifestation de mon autonomie professionnelle m'a permis d'être plus à l'aise avec mes contenus de cours et d'enseigner une matière que je maîtrisais totalement. Ainsi, cela illustre que j'aime bien me fier à la collectivité tout en gardant une certaine autonomie sur mes décisions. 
 
 ### La pratique réflexive
+Dans les différents textes, on a appris que la pratique réflexive est un outil qui permet d'analyser notre pratique dans un but de mieux l'orienter et de l'améliorer. La pratique réflexive est une habitude qu'on peut développer pour devenir un meilleur enseignant. Dans son texte, Lenoir[^lenoir] décortique ce procédé en quatre étapes principales reliées par une transition. Voici mon interprétation de chacune des étapes: 
+
+1. Pratique: Pour qu'il y ait réflexion, il doit y avoir une pratique, des actions ou une activité faite par l'enseignant. 
+2. Analyse: L'enseignant doit ensuite analyser la pratique. Il peut utiliser une grille d'analyse ou des questions déjà préparées pour vérifier les événements. Le but n'est pas de les juger, mais bien d'observer de façon critique ce qui s'est passé.
+3. Généralisation: À cette étape, on veut faire des liens avec la théorie. Essayer de réfléchir et d'interpréter ce qu'on a analyser. On veut trouver les réactions qu'on pourrait avoir face aux conclusions qui sont tirées de notre analyse.
+4. Transfert: La pratique réflexive n'est pas une simple réflexion, elle prend tout son sens lorsqu'on met en application les solutions ou les pistes auxquelles on a réfléchit.
+
+Ces étapes sont ensuite répétées en boucle puisque la pratique réflexive n'a pas de fin en soi. Il y a toujours des possibilités d'amélioration par rapport à nos actions. 
+
+
+
+
 Décrivez comment ces éléments quant au rapport aux collègues et le rapport aux responsabilités se manifestent dans vos pratiques enseignantes, en donnant des exemples pour illustrer dans quelle mesure vos pratiques sont en cohérence ou non avec le rôle et les responsabilités attendues de la personne enseignante au collégial. 
 
 ### L'éthique professionnelle
@@ -86,3 +98,5 @@ Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les
 [^steph]: [Carles, S. (2022) L'autonomie professionnelle. Collège Montmorency.](https://moodle.usherbrooke.ca/pluginfile.php/4181938/mod_page/content/47/Carle_Autonomie%20professionnelle_2022.pdf)  
 
 [^tram]:[Dang Ngoc, T. Trâm. (2021, 1 mars). Approche par compétences. Dans Blogue personnel.](https://bit.ly/3qIGbzb)
+
+[^lenoir]:[Lenoir, Y. (2012). Réfléchir dans et sur sa pratique, une nécessité indispensable. Université de Sherbrooke.](https://www.usherbrooke.ca/creas/fileadmin/sites/creas/documents/Publications/Destinees_aux_professionnels/Analyse_re__flexive-Outil1_Lenoir.pdf)
