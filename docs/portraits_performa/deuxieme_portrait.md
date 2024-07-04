@@ -45,7 +45,8 @@ Ici, on revisite la proposition du portrait 1.[^lora]
 **En résumé**    
 Cette précision de l'approche par projet stipule que l'organisation d'un des projets de la session sera amenée à la façon du marché du travail. Ainsi, la classe représentera une équipe de travail qui doit créer un jeu vidéo. Chaque étudiant aura un rôle selon un organigramme déterminé par les étudiants. La méthode agile qui est beaucoup utilisée dans les organisations de multimédia pourra être expérimentée par les élèves. Ils seront également tous intégrés dans les décisions au cours du processus créatif. 
 
-**Comment cette modification de l'approche par projet consolide l'approche par compétence et mon rôle en tant qu'enseignante?**       
+**Comment cette modification de l'approche par projet consolide l'approche par compétence et mon rôle en tant qu'enseignante?**         
+
 * Fonctionner à la façon d'une entreprise dans la salle de classe permet aux étudiants de mieux comprendre les réalités du marché du travail. Cela leur permet aussi de développer des compétences qui ne sont pas stimulées par les cours magistraux.      
 * Dans la BD de T. Tram, on souligne l'élément suivant: *[...] pour que l'étudiant développe une compétence donnée, il faut: des situations d'apprentissage qui devront être la plus proche de la situation professionnelle pour faire sens et travailler sur la complexité.* (T. Trâm, 2021, p.19)[^tram]. Je suis d'accord avec sa proposition. C'est pour cette raison que je souhaite que dans l'un de nos projets, nous agissions comme une grande équipe de travail plutôt que de laisser chaque élève travailler sur son projet en silo.    
 * Le rôle de l'enseignant dans ce type de projet est en totale cohérence avec ma nouvelle vision qui est de guider mes étudiants à travers les apprentissages que je souhaite qu'ils réalisent au courant de leur session.      
