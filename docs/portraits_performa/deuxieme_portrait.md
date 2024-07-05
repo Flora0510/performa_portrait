@@ -88,7 +88,6 @@ Je crois que l'analyse réflexive constitue un bon outil pour améliorer ma prat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kCHXW3lPFvo?si=V7ULvezYIYv4g_M8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Favoriser les apprentissages de mes étudiants
-Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport aux collègues et le rapport aux responsabilités. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRMc9AAN4Ro?si=XII2cLHlOwxh3QE1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
