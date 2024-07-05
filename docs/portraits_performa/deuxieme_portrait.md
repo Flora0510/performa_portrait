@@ -90,6 +90,18 @@ Je crois que l'analyse réflexive constitue un bon outil pour améliorer ma prat
 ### Favoriser les apprentissages de mes étudiants
 Expliquez un moyen réaliste que vous comptez mettre en place pour favoriser les apprentissages de vos élèves pour être davantage en cohérence avec le rôle et les responsabilités attendues de la personne enseignante au collégial, quant au rapport aux collègues et le rapport aux responsabilités. Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues. Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de votre moyen. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRMc9AAN4Ro?si=XII2cLHlOwxh3QE1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**En résumé**    
+J'aimerais essayer d'introduire l'approche réflexive dans ma pratique. Voici la façon dont je compte m'y prendre pour éviter que cela devienne une tâche lourde et demandante. 
+
+
+**Comment cette nouvelle pratique est en cohérence avec mon rôle et mes responsabilités en tant qu'enseignante?**         
+
+* La pratique réflexive est un outil qui me permettra de mieux cerner les besoins de mes élèves. Grâce à ma grille d'analyse, je pourrai réfléchir aux difficultés qui rencontrent et surtout essayer de trouver des solutions à mettre en place pour aider les étudiants.
+* Je crois que j'arriverai à suivre ma méthode assez facilement, puisque, tel que mentionné dans mes forces de caractères, je suis une personne très assidue. Ainsi, si je me donne un objectif, je ferai ce qui est en mon pouvoir pour le respecter. Selon le texte de Lenoir, une fois l'habitude développée, je n'aurai plus à y penser pour le faire: *une fois le nouvel habitus acquis et intégré, qui recourt systématiquement à l’analyse réflexive à partir d’une grille d’analyse qui est elle-même incorporée à nos actions, l’usage de l’analyse réflexive devient “naturel” au point où elle devient pratiquement inconsciente.* (Lenoir, 2012, p.13)[^lenoir] 
+
+
 ## Bibliographie
 
 [^bon prof]: [Barbeau, D. et Doucet, S. (2009). En 2009, c’est quoi un « bon prof » ?. Pédagogie collégiale, 22 (3), 35-37.](https://eduq.info/xmlui/handle/11515/21746)
