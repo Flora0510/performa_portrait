@@ -26,7 +26,7 @@ Après la lecture des textes, je peux assurer que cela n'est pas évident. Déj�
 
      Pour cet axe, on doit essayer de mettre en valeur les forces de chaque étudiant afin qu'ils se développent dans leurs apprentissages. Je trouve que c'est un beau défi, mais je crois que l'approche par projet dont j'ai parlé dans mes deux premiers portraits, me permettra de me développer dans cet axe. Dans leurs projets, les étudiants auront chacun un rôle basé sur leurs forces, ce qui leur permettra de se développer et, surtout, de se sentir à leur place dans une équipe. Je suis consciente qu'on apprends beaucoup mieux lorsqu'on se sent valorisé et important.    
 
-!!! success "Axe de l'impuissance/partage de pouvoir"
+!!! example "Axe de l'impuissance/partage de pouvoir"
 
      Pour cet axe, j'ai beaucoup moins de connaissances. Je ne m'étais jamais vraiment questionnée avant aujourd'hui sur la manière de développer la pensée critique de mes élèves. Peut-être que je pourrais montrer plus de modèles artistiques à mes étudiants. Leur faire rencontrer des artistes avec des visions différentes leur permettrait de découvrir la richesse et la diversité de notre monde artistique.      
 
