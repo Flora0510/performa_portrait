@@ -18,6 +18,18 @@ Après la lecture des textes, je peux assurer que cela n'est pas évident. Déj�
 
      Dans cet axe, notre intervention se situe au niveau de la parole. On doit essayer de s'assurer que tous se sentent importants et puissent partager leur opinion. Dans ma pratique, je stimule beaucoup cet axe. En effet, j'essaie de varier mes interventions afin que tous puissent participer. Par exemple, lorsque les élèves doivent trouver des idées pour de nouveaux projets, je les mets en petits groupes pour que ceux qui sont plus gênés soient à l'aise de participer aux échanges. Aussi, je m'assure de créer un climat de confiance. Je répète qu'il n'y a jamais de mauvaises idées, que des idées qui mènent à d'autres! 
 
+!!! success "Axe de la reconnaissance/omission"
+
+     Je dois avouer que je suis moins familière avec cet axe. Une des choses à laquelle j'apporte de l'importance est d'avoir des modèles féminins dans mes cours. Étant dans un domaine technologique et ayant eu seulement des enseignants masculins à l'université, je trouve très important que mes étudiants aient des modèles variés. Ainsi, lorsqu'on visionne des capsules sur le web parlant des différents métiers dans mon cours d'introduction au marché du travail, je m'assure qu'il y a une bonne diversité dans les capsules.    
+
+!!! success "Axe de la passivité/participation active"
+
+     Pour cet axe, on doit essayer de mettre en valeur les forces de chaque étudiant afin qu'ils se développent dans leurs apprentissages. Je trouve que c'est un beau défi, mais je crois que l'approche par projet dont j'ai parlé dans mes deux premiers portraits, me permettra de me développer dans cet axe. Dans leurs projets, les étudiants auront chacun un rôle basé sur leurs forces, ce qui leur permettra de se développer et, surtout, de se sentir à leur place dans une équipe. Je suis consciente qu'on apprends beaucoup mieux lorsqu'on se sent valorisé et important.    
+
+!!! success "Axe de l'impuissance/partage de pouvoir"
+
+     Pour cet axe, j'ai beaucoup moins de connaissances. Je ne m'étais jamais vraiment questionnée avant aujourd'hui sur la manière de développer la pensée critique de mes élèves. Peut-être que je pourrais montrer plus de modèles artistiques à mes étudiants. Leur faire rencontrer des artistes avec des visions différentes leur permettrait de découvrir la richesse et la diversité de notre monde artistique.      
+
 ### Relation pédagogique
 
 ### Sécurisation émotionnelle
