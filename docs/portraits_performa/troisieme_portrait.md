@@ -8,7 +8,7 @@ Donnez des exemples pour illustrer dans quelle mesure vos pratiques sont cohére
 
 
 
-### Inclusion, motivation et engagement
+### Inclusion
 Après les lectures, je comprends que l'inclusion est présente lorsqu'on fournit un contexte d'enseignement qui prends en compte les différentes caractéristiques des étudiants qui composent notre groupe. Dans le texte de Duval, on parle des étudiants qui composent nos groupes: *anxieux, autistes, dyslexiques, allophones, autochtones, doués, effectuant un retour aux études, ayant des troubles de santé mentale ou étant simplement démotivés.*[^duval] (Duval, 2019, p.12) À cela, s'ajoutent plusieurs autres caractéristiques pouvant parfois exclure nos étudiants: trouble de l'apprentissage, culture, orientation sexuelle, sexe, ... Nos groupes sont diversifiés et c'est ce qui fait leur beauté. Cependant, une question s'impose:    
 
 **Comment s'assurer que chacun des étudiants se sente inclus dans notre enseignement?**  
@@ -30,11 +30,11 @@ Après la lecture des textes, je peux assurer que cela n'est pas évident. Déj�
 
      Pour cet axe, j'ai beaucoup moins de connaissances. Je ne m'étais jamais vraiment questionnée avant aujourd'hui sur la manière de développer la pensée critique de mes élèves. Peut-être que je pourrais montrer plus de modèles artistiques à mes étudiants. Leur faire rencontrer des artistes avec des visions différentes leur permettrait de découvrir la richesse et la diversité de notre monde artistique.      
 
-     
+Ces exemples sont intéressants, mais il y aurait assurément plus à faire afin que tout un chacun se sente inclus et compris au sein de mon enseignement. Cette année, lors de la présentation des élèves au premier cours, j'ai demandé aux étudiants par quel pronom ils s'identifient. J'ai alors réalisé qu'entre la première et la troisième année, cela peut changer pour certains et que c'est une bonne pratique de le demander. Cette pratique a sûrement stimulé le sentiment de confiance de certains et leur a probablement permis de se sentir plus à l'aise dans la classe. J'aimerais trouver d'autres pratiques qui sont simples et qui ne demandent pas de temps, mais qui font une différence pour certains. 
 
-### Relation pédagogique
+### Motivation et engagement     
 
-### Sécurisation émotionnelle
+### Relation pédagogique et sécurisation émotionnelle
 
 ### Favoriser les apprentissages de mes étudiants 1 
 Expliquez deux moyens réalistes que vous comptez mettre en place pour favoriser la réussite éducative de vos élèves, pour être davantage en cohérence avec les principes de l’inclusion, de la motivation, de l’engagement et de la sécurisation émotionnelle.
