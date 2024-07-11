@@ -12,13 +12,13 @@ Donnez des exemples pour illustrer dans quelle mesure vos pratiques sont cohére
 Après les lectures, je comprends que l'inclusion est présente lorsqu'on fournit un contexte d'enseignement qui prends en compte les différentes caractéristiques des étudiants qui composent notre groupe. Dans le texte de Duval, on parle des étudiants qui composent nos groupes: *anxieux, autistes, dyslexiques, allophones, autochtones, doués, effectuant un retour aux études, ayant des troubles de santé mentale ou étant simplement démotivés.*[^duval] (Duval, 2019, p.12) À cela, s'ajoutent plusieurs autres caractéristiques pouvant parfois exclure nos étudiants: trouble de l'apprentissage, culture, orientation sexuelle, sexe, ... Nos groupes sont diversifiés et c'est ce qui fait leur beauté. Cependant, une question s'impose:    
 
 **Comment s'assurer que chacun des étudiants se sente inclus dans notre enseignement?**  
-Après la lecture des textes, je peux assurer que cela n'est pas évident. Déjà, parce que nous avons chacun nos biais. Certaines méthodes d'inclusion me viennent naturellement alors que d'un autre côté je suis moins consciente de certaines réalités. Difficile d'être inclusif quand on ne connaît pas toutes les difficultés vécues par nos élèves. Dans le texte de Doutreloux et Bélec, on propose 4 axes d'action[^belec]. Je tenterai ici de décrire comment j'agis ou comment je pourrais agir plus sur ces axes:
+Après la lecture des textes, je peux assurer que cela n'est pas évident. Déjà, parce que nous avons chacun nos biais. Certaines méthodes d'inclusion me viennent naturellement alors que d'un autre côté je suis moins consciente de certaines réalités. Difficile d'être inclusif quand on ne connaît pas toutes les difficultés vécues par nos élèves! Dans le texte de Doutreloux et Bélec, on propose 4 axes d'action[^belec]. Je tenterai ici de décrire comment j'agis ou comment je pourrais agir plus sur ces axes:
 
 !!! success "Axe de la parole/silence"
 
      Dans cet axe, notre intervention se situe au niveau de la parole. On doit essayer de s'assurer que tous se sentent importants et puissent partager leur opinion. Dans ma pratique, je stimule beaucoup cet axe. En effet, j'essaie de varier mes interventions afin que tous puissent participer. Par exemple, lorsque les élèves doivent trouver des idées pour de nouveaux projets, je les mets en petits groupes pour que ceux qui sont plus gênés soient à l'aise de participer aux échanges. Aussi, je m'assure de créer un climat de confiance. Je répète qu'il n'y a jamais de mauvaises idées, que des idées qui mènent à d'autres! 
 
-!!! success "Axe de la reconnaissance/omission"
+!!! example "Axe de la reconnaissance/omission"
 
      Je dois avouer que je suis moins familière avec cet axe. Une des choses à laquelle j'apporte de l'importance est d'avoir des modèles féminins dans mes cours. Étant dans un domaine technologique et ayant eu seulement des enseignants masculins à l'université, je trouve très important que mes étudiants aient des modèles variés. Ainsi, lorsqu'on visionne des capsules sur le web parlant des différents métiers dans mon cours d'introduction au marché du travail, je m'assure qu'il y a une bonne diversité dans les capsules.    
 
@@ -29,6 +29,8 @@ Après la lecture des textes, je peux assurer que cela n'est pas évident. Déj�
 !!! example "Axe de l'impuissance/partage de pouvoir"
 
      Pour cet axe, j'ai beaucoup moins de connaissances. Je ne m'étais jamais vraiment questionnée avant aujourd'hui sur la manière de développer la pensée critique de mes élèves. Peut-être que je pourrais montrer plus de modèles artistiques à mes étudiants. Leur faire rencontrer des artistes avec des visions différentes leur permettrait de découvrir la richesse et la diversité de notre monde artistique.      
+
+     
 
 ### Relation pédagogique
 
@@ -48,8 +50,15 @@ Précisez comment vos forces de caractère peuvent devenir des leviers pour la m
 * Point 1
 
 ### Favoriser les apprentissages de mes étudiants 2 
+J'aimerais beaucoup travailler au niveau de l'inclusion dans mes cours. Je crois qu'un bon moyen de favoriser les apprentissages de mes étudiants serait premièrement de me renseigner sur leur réalité. Peut-être qu'en leur passant un questionnaire ou qu'en ayant une discussion avec eux je pourrais en apprendre plus sur leur sentiment d'inclusion. Qu'est-ce qui suscite ce sentiment? À quels moments se sentent-ils moins inclus? Quelles stratégies pourrions-nous mettre en place dans la classe pour que tous s'y sentent bien? 
+
+Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils de pratique réflexive que nous avons abordé dans le deuxième portrait pour mieux orienter ma pratique enseignante. Il me faudrait analyser les réponses. Ensuite, généraliser et trouver des solutions concrètes pour finalement faire un transfert dans la salle de classe. Aussi, il ne faut pas oublier que ce processus n'est pas unique, il s'agit d'une boucle. Ainsi, je pourrais continuer d'observer ma pratique pour continuer à l'améliorer. Continuer de poser des questions à mes élèves pour tenter de les appuyer le mieux possible dans leurs apprentissages. 
 
 
 ## Bibliographie
 [^belec]:[Doutreloux, E. et Bélec, C. (2022). Pourquoi encore parler d’inclusion ? Pédagogie collégiale, 35(2), 7-15.](https://eduq.info/xmlui/handle/11515/38281)  
 [^duval]: [Duval, A-M. (2019). La pédagogie inclusive en réponse aux besoins des étudiants…et des professeurs. Pédagogie collégiale, 32(4), 12-21.](https://eduq.info/xmlui/handle/11515/38031)
+
+
+
+
