@@ -54,7 +54,14 @@ J'aimerais beaucoup travailler au niveau de l'inclusion dans mes cours. Je crois
 
 Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils de pratique réflexive que nous avons abordé dans le deuxième portrait pour mieux orienter ma pratique enseignante. Il me faudrait analyser les réponses. Ensuite, généraliser et trouver des solutions concrètes pour finalement faire un transfert dans la salle de classe. Aussi, il ne faut pas oublier que ce processus n'est pas unique, il s'agit d'une boucle. Ainsi, je pourrais continuer d'observer ma pratique pour continuer à l'améliorer. Continuer de poser des questions à mes élèves pour tenter de les appuyer le mieux possible dans leurs apprentissages. 
 
+**Comment cette nouvelle pratique est en cohérence avec les principes de l'inclusion, de la motivation, de l'engagement et de la sécurisation émotionnelle?**   
 
+* Démontrer à mes étudiants de l'ouverture face à l'inclusion permettra assurément d'améliorer le climat de confiance au sein de la classe. Ce dernier est essentiel pour que tous se sentent à l'aise d'apprendre et d'exprimer leurs opinions.
+* Un meilleur sentiment d'inclusion apportera nécessairement de la motivation aux élèves. C'est lorsqu'on se sent impliqué et interpellé qu'on est le plus motivé. De cette motivation résultera sûrement un meilleur engagement de la part des étudiants. 
+
+
+
+  
 ## Bibliographie
 [^belec]:[Doutreloux, E. et Bélec, C. (2022). Pourquoi encore parler d’inclusion ? Pédagogie collégiale, 35(2), 7-15.](https://eduq.info/xmlui/handle/11515/38281)  
 [^duval]: [Duval, A-M. (2019). La pédagogie inclusive en réponse aux besoins des étudiants…et des professeurs. Pédagogie collégiale, 32(4), 12-21.](https://eduq.info/xmlui/handle/11515/38031)
