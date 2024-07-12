@@ -35,10 +35,10 @@ Ces exemples sont intéressants, mais il y aurait assurément plus à faire afin
 ### Motivation et engagement     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tg6j-M1RV08?si=tIX5XLsyu8xnB3xZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Sources mentionnées dans la vidéo: 
-Piliers du HEC[^hec]
-Dimensions de l'engagement de Parent et vision de la relation entre la motivation et l'engagement[^parent]
-Stratégies que j'utilise pour susciter la motivation inspirée de Carle[^carle]
+Sources mentionnées dans la vidéo:     
+Piliers du HEC[^hec]     
+Dimensions de l'engagement de Parent et vision de la relation entre la motivation et l'engagement[^parent]     
+Stratégies que j'utilise pour susciter la motivation inspirée de Carle[^carle]    
 
 
 ### Relation pédagogique et sécurisation émotionnelle
