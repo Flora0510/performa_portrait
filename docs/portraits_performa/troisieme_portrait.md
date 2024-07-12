@@ -34,6 +34,12 @@ Ces exemples sont intéressants, mais il y aurait assurément plus à faire afin
 
 ### Motivation et engagement     
 
+Sources mentionnées dans la vidéo: 
+Piliers du HEC[^hec]
+Dimensions de l'engagement de Parent et vision de la relation entre la motivation et l'engagement[^parent]
+Stratégies que j'utilise pour susciter la motivation inspirée de Carle[^carle]
+
+
 ### Relation pédagogique et sécurisation émotionnelle
 
 ### Favoriser les apprentissages de mes étudiants 1 
@@ -67,7 +73,6 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 [^carle]:[Carle, S. (2016). Parlons d'apprentissage avec des étudiants, Pédagogie collégiale, 29(4), 24-31.](https://eduq.info/xmlui/handle/11515/37457)
 [^belec]:[Doutreloux, E. et Bélec, C. (2022). Pourquoi encore parler d’inclusion ? Pédagogie collégiale, 35(2), 7-15.](https://eduq.info/xmlui/handle/11515/38281)  
 [^duval]: [Duval, A-M. (2019). La pédagogie inclusive en réponse aux besoins des étudiants…et des professeurs. Pédagogie collégiale, 32(4), 12-21.](https://eduq.info/xmlui/handle/11515/38031)
-
-
-
+[^hec]: [HEC Montréal. (s.d.). La motivation des apprenants. Affiche. Montréal : HEC Montréal.](https://ernest.hec.ca/video/DAIP/pdf/Motivation_des_apprenants.PNG)
+[^parent]:[Parent, S. (2018). Favoriser la motivation et l’engagement des étudiants… tout au long de la session. Pédagogie collégiale, 31(4), 3-8.](https://eduq.info/xmlui/bitstream/handle/11515/37793/parent-31-4_0-2018.pdf?sequence=2&isAllowed=)
 
