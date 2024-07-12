@@ -33,6 +33,7 @@ Après la lecture des textes, je peux assurer que cela n'est pas évident. Déj�
 Ces exemples sont intéressants, mais il y aurait assurément plus à faire afin que tout un chacun se sente inclus et compris au sein de mon enseignement. Cette année, lors de la présentation des élèves au premier cours, j'ai demandé aux étudiants par quel pronom ils s'identifient. J'ai alors réalisé qu'entre la première et la troisième année, cela peut changer pour certains et que c'est une bonne pratique de le demander. Cette pratique a sûrement stimulé le sentiment de confiance de certains et leur a probablement permis de se sentir plus à l'aise dans la classe. J'aimerais trouver d'autres pratiques qui sont simples et qui ne demandent pas de temps, mais qui font une différence pour certains. 
 
 ### Motivation et engagement     
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tg6j-M1RV08?si=tIX5XLsyu8xnB3xZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Sources mentionnées dans la vidéo: 
 Piliers du HEC[^hec]
