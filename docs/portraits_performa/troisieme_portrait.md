@@ -57,12 +57,14 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 **Comment cette nouvelle pratique est en cohérence avec les principes de l'inclusion, de la motivation, de l'engagement et de la sécurisation émotionnelle?**   
 
 * Démontrer à mes étudiants de l'ouverture face à l'inclusion permettra assurément d'améliorer le climat de confiance au sein de la classe. Ce dernier est essentiel pour que tous se sentent à l'aise d'apprendre et d'exprimer leurs opinions.
-* Un meilleur sentiment d'inclusion apportera nécessairement de la motivation aux élèves. C'est lorsqu'on se sent impliqué et interpellé qu'on est le plus motivé. De cette motivation résultera sûrement un meilleur engagement de la part des étudiants. 
+* Un meilleur sentiment d'inclusion apportera nécessairement de la motivation aux élèves. C'est lorsqu'on se sent impliqué et interpellé qu'on est le plus motivé. De cette motivation résultera sûrement un meilleur engagement de la part des étudiants.
+* Dans le texte de Carle, Steven mentionne: *C’est important pour moi d’avoir une bonne relation avec mes profs, de sentir que je compte pour eux.*[^carle] (Carle, 2016, p.26). Pour moi, le développement d'une bonne relation avec les étudiants passe par la connaissance de ceux-ci. C'est en connaissant leurs forces, mais aussi leurs difficultés que je serai mieux en mesure de les encadrer et que nous pourrons développer une relation de confiance. M'intéresser à eux est assurément une bonne manière de leur faire sentir qu'ils comptent à mes yeux.
 
 
 
   
 ## Bibliographie
+[^carle]:[Carle, S. (2016). Parlons d'apprentissage avec des étudiants, Pédagogie collégiale, 29(4), 24-31.](https://eduq.info/xmlui/handle/11515/37457)
 [^belec]:[Doutreloux, E. et Bélec, C. (2022). Pourquoi encore parler d’inclusion ? Pédagogie collégiale, 35(2), 7-15.](https://eduq.info/xmlui/handle/11515/38281)  
 [^duval]: [Duval, A-M. (2019). La pédagogie inclusive en réponse aux besoins des étudiants…et des professeurs. Pédagogie collégiale, 32(4), 12-21.](https://eduq.info/xmlui/handle/11515/38031)
 
