@@ -42,9 +42,25 @@ Stratégies que j'utilise pour susciter la motivation inspirée de Carle[^carle]
 
 
 ### Relation pédagogique et sécurisation émotionnelle
+Dans son texte, Kozanitis mentionne *qu’une relation pédagogique appropriée s’avère la condition la plus déterminante de la quête de sens et d’autonomie et un ingrédient indispensable pour que l’enseignement ait une influence significative sur les étudiants.*[^koz] (Kozanitis, 2015, p.4). Il a raison, une bonne relation avec les étudiants est assurément un des éléments qui nous aide dans notre enseignement. 
+**Pour ma part comment est-ce que je vois cette relation?** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ_f-VH_gTs?si=X1UvGeVnuK_UPy9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Concrètement, quelles sont les actions que je pose pour développer cette relation?** 
+!!! success "Apprendre le nom des étudiants"
 
-#### Anxiété de performance
+     Je tente de mémoriser rapidement le nom de mes étudiants. Cela contribue à développer un lien plus personnel avec eux. Je souhaite qu'ils se sentent reconnus et c'est une manière simple de le faire. Aussi, je m'assure de la prononciation de leur nom en insistant pour qu'ils me disent si je me trompe. Je veux ainsi m'assurer qu'ils se sentent écoutés. 
+
+!!! success "Relier la matière avec les intérêts des élèves"
+
+     Dans le cours d'introduction au marché du travail, je prends le temps de sonder les intérêts des élèves. J'essaie ensuite de présenter des entreprises qui pourraient piquer leur curiosité dans mes exemples. Ce faisant, les étudiants remarquent que je me soucie de leurs réponses et sont plus enclins à participer aux activités.  
+
+!!! success "Prendre le temps d'écouter les étudiants et leur montrer de l'ouverture"
+
+     Dès le début de la session, je mentionne que je suis là si jamais les élèves ont besoin de parler. En tant que coordonnatrice de programme je suis une des ressources qu'ils peuvent consulter si jamais ils sont incertains d'une situation. Je les invite à me consulter même pour des éléments qu'ils ne considèrent pas urgent. J'espère qu'en me montrant accessible et ouverte, cela leur permet de se confier plus facilement s'ils vivent des difficultés. 
+
+     
+**Anxiété de performance**
 L'anxiété de performance est probablement l'un des éléments dont je suis le plus consciente en tant que professeure. Étant moi-même sujette à en faire, je tente de fournir un contexte d'apprentissage qui permettra d'atténuer la pression de mes étudiants. Voici quelques stratégies que j'utilise à cet effet: 
 
 * Proposer des travaux pratiques plutôt que des examens. Puisque les travaux se font sur plusieurs semaines, les élèves peuvent me consulter en cours de route et me montrer leur avancement. De cette manière, ils ont mes commentaires et peuvent améliorer le tout avant la remise. Les étudiants se sentent souvent sécurisés lorsqu'on les rassure sur la qualité de leurs travaux. De plus, si ils ne vont pas dans la direction, on peut les réorienter pour s'assurer qu'ils arrivent à ce qui est demandé.
@@ -87,5 +103,6 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 [^fournier]:[Fournier-Plouffe, M. (2019). Réduire l’anxiété de performance au collégial. Deux leviers d’action pour les professeurs, Pédagogie collégiale, 32(2), 3-9.](https://eduq.info/xmlui/handle/11515/38018)
 [^fraser]: [Fraser, M. et A. Kozanitis (2019). Pour un climat de classe non discriminatoire. Vers des pratiques enseignantes inclusives des genres et de la diversité sexuelle au collégial. Pédagogie collégiale, 32(4), 34-40.](Repéré à https://eduq.info/xmlui/handle/11515/38033)
 [^hec]: [HEC Montréal. (s.d.). La motivation des apprenants. Affiche. Montréal : HEC Montréal.](https://ernest.hec.ca/video/DAIP/pdf/Motivation_des_apprenants.PNG)
+[^koz]: [Kozanitis, A. (2015). La relation pédagogique au collégial. Une alliée vitale pour la création d’un climat de classe propice à la motivation et à l’apprentissage. Pédagogie collégiale, 28(4), 4-9.](https://eduq.info/xmlui/handle/11515/37481)
 [^parent]:[Parent, S. (2018). Favoriser la motivation et l’engagement des étudiants… tout au long de la session. Pédagogie collégiale, 31(4), 3-8.](https://eduq.info/xmlui/bitstream/handle/11515/37793/parent-31-4_0-2018.pdf?sequence=2&isAllowed=)
 
