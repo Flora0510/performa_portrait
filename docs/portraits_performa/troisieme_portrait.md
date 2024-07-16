@@ -43,6 +43,15 @@ Stratégies que j'utilise pour susciter la motivation inspirée de Carle[^carle]
 
 ### Relation pédagogique et sécurisation émotionnelle
 
+
+#### Anxiété de performance
+L'anxiété de performance est probablement l'un des éléments dont je suis le plus consciente en tant que professeure. Étant moi-même sujette à en faire, je tente de fournir un contexte d'apprentissage qui permettra d'atténuer la pression de mes étudiants. Voici quelques stratégies que j'utilise à cet effet: 
+
+* Proposer des travaux pratiques plutôt que des examens. Puisque les travaux se font sur plusieurs semaines, les élèves peuvent me consulter en cours de route et me montrer leur avancement. De cette manière, ils ont mes commentaires et peuvent améliorer le tout avant la remise. Les étudiants se sentent souvent sécurisés lorsqu'on les rassure sur la qualité de leurs travaux. De plus, si ils ne vont pas dans la direction, on peut les réorienter pour s'assurer qu'ils arrivent à ce qui est demandé.
+* Donner des consignes claires. Pour mes travaux, j'essaie d'avoir des consignes qui sont le plus simple possible et qu'on ne peut pas interpréter. De plus, les étudiants ont toujours accès à la grille de correction détaillée à l'avance, ce qui peut les aider à s'autoévaluer et s'assurer que leur travail répond aux exigences.
+* Dans le texte de Fournier-Plouffe, l'une de mes stratégies est validée: *Pour esquiver la comparaison, le professeur peut éviter de mentionner la moyenne du groupe lors de sa rétroaction sur
+les évaluations et faire en sorte qu’elle ne s’affiche pas dans le tableau de bord de l’étudiant lorsque ce dernier consulte ses résultats dans Omnivox ou Col.NET.*[^fournier] (Fournier-Plouffe, 2019, p.5) J'utilise cette méthode puisque je souhaite que mes étudiants se concentrent sur leur résultat plutôt que de se comparer aux autres. 
+
 ### Favoriser les apprentissages de mes étudiants 1 
 Expliquez deux moyens réalistes que vous comptez mettre en place pour favoriser la réussite éducative de vos élèves, pour être davantage en cohérence avec les principes de l’inclusion, de la motivation, de l’engagement et de la sécurisation émotionnelle.
 
@@ -75,6 +84,7 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 [^carle]:[Carle, S. (2016). Parlons d'apprentissage avec des étudiants, Pédagogie collégiale, 29(4), 24-31.](https://eduq.info/xmlui/handle/11515/37457)
 [^belec]:[Doutreloux, E. et Bélec, C. (2022). Pourquoi encore parler d’inclusion ? Pédagogie collégiale, 35(2), 7-15.](https://eduq.info/xmlui/handle/11515/38281)  
 [^duval]: [Duval, A-M. (2019). La pédagogie inclusive en réponse aux besoins des étudiants…et des professeurs. Pédagogie collégiale, 32(4), 12-21.](https://eduq.info/xmlui/handle/11515/38031)
+[^fournier]:[Fournier-Plouffe, M. (2019). Réduire l’anxiété de performance au collégial. Deux leviers d’action pour les professeurs, Pédagogie collégiale, 32(2), 3-9.](https://eduq.info/xmlui/handle/11515/38018)
 [^fraser]: [Fraser, M. et A. Kozanitis (2019). Pour un climat de classe non discriminatoire. Vers des pratiques enseignantes inclusives des genres et de la diversité sexuelle au collégial. Pédagogie collégiale, 32(4), 34-40.](Repéré à https://eduq.info/xmlui/handle/11515/38033)
 [^hec]: [HEC Montréal. (s.d.). La motivation des apprenants. Affiche. Montréal : HEC Montréal.](https://ernest.hec.ca/video/DAIP/pdf/Motivation_des_apprenants.PNG)
 [^parent]:[Parent, S. (2018). Favoriser la motivation et l’engagement des étudiants… tout au long de la session. Pédagogie collégiale, 31(4), 3-8.](https://eduq.info/xmlui/bitstream/handle/11515/37793/parent-31-4_0-2018.pdf?sequence=2&isAllowed=)
