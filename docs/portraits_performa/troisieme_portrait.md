@@ -4,12 +4,24 @@
 ## Rapport aux élèves
 
 ### Caractéristiques de la population étudiante
-Donnez des exemples pour illustrer dans quelle mesure vos pratiques sont cohérentes ou non avec les caractéristiques de vos élèves et les leviers pour leur réussite.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZ67brMXTNA?si=g37etygawJRVNbrt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Comment mes pratiques sont-elles cohérentes avec les caractéristiques de mes élèves?**    
 
+!!! example "LGBTQ2+"
+
+     Dans le premier cours, je prends toujours le temps de demander aux étudiants quel est leur prénom et le pronom qu'ils utilisent pour se désigner. Cette pratique est simple, mais elle leur démontre qu'on se soucie de l'identité qu'ils ont choisie.     
+
+!!! warning "Deuxième génération d'immigration"
+
+     Dans mes groupes, plusieurs des élèves sont issus d'une génération d'immigration. Maintenant que j'ai pris plus conscience de leur réalité, j'aimerais savoir comment je pourrais faire pour qu'ils se sentent plus inclus dans les cours. Je crois que d'en discuter avec eux et de leur démontrer une attitude ouverte pourra les aider à se sentir mieux intégrés.  
+
+!!! example "Étudiants adultes"
+
+     Dans un de mes groupes, j'avais une étudiante adulte. Nous avons beaucoup discuté des enjeux que cela apporte puisque leur réalité n'est pas la même que celle des autres étudiants. Avoir une certaine flexibilité pour accommoder cette réalité est un atout pour les étudiants. 
 
 ### Inclusion
-Après les lectures, je comprends que l'inclusion est présente lorsqu'on fournit un contexte d'enseignement qui prends en compte les différentes caractéristiques des étudiants qui composent notre groupe. Dans le texte de Duval, on parle des étudiants qui composent nos groupes: *anxieux, autistes, dyslexiques, allophones, autochtones, doués, effectuant un retour aux études, ayant des troubles de santé mentale ou étant simplement démotivés.*[^duval] (Duval, 2019, p.12) À cela, s'ajoutent plusieurs autres caractéristiques pouvant parfois exclure nos étudiants: trouble de l'apprentissage, culture, orientation sexuelle, sexe, ... Nos groupes sont diversifiés et c'est ce qui fait leur beauté. Cependant, une question s'impose:    
+Après les lectures, je comprends que l'inclusion est présente lorsqu'on fournit un contexte d'enseignement qui prend en compte les différentes caractéristiques des étudiants qui composent notre groupe. Dans le texte de Duval, on parle des étudiants qui composent nos groupes: *anxieux, autistes, dyslexiques, allophones, autochtones, doués, effectuant un retour aux études, ayant des troubles de santé mentale ou étant simplement démotivés.*[^duval] (Duval, 2019, p.12). À cela s'ajoutent plusieurs autres caractéristiques pouvant parfois exclure nos étudiants: trouble de l'apprentissage, culture, orientation sexuelle, sexe ... Nos groupes sont diversifiés et c'est ce qui fait leur beauté. Cependant, une question s'impose:    
 
 **Comment s'assurer que chacun des étudiants se sente inclus dans notre enseignement?**  
 Après la lecture des textes, je peux assurer que cela n'est pas évident. Déjà, parce que nous avons chacun nos biais. Certaines méthodes d'inclusion me viennent naturellement alors que d'un autre côté je suis moins consciente de certaines réalités. Difficile d'être inclusif quand on ne connaît pas toutes les difficultés vécues par nos élèves! Dans le texte de Doutreloux et Bélec, on propose 4 axes d'action[^belec]. Je tenterai ici de décrire comment j'agis ou comment je pourrais agir plus sur ces axes:
@@ -24,7 +36,7 @@ Après la lecture des textes, je peux assurer que cela n'est pas évident. Déj�
 
 !!! success "Axe de la passivité/participation active"
 
-     Pour cet axe, on doit essayer de mettre en valeur les forces de chaque étudiant afin qu'ils se développent dans leurs apprentissages. Je trouve que c'est un beau défi, mais je crois que l'approche par projet dont j'ai parlé dans mes deux premiers portraits, me permettra de me développer dans cet axe. Dans leurs projets, les étudiants auront chacun un rôle basé sur leurs forces, ce qui leur permettra de se développer et, surtout, de se sentir à leur place dans une équipe. Je suis consciente qu'on apprends beaucoup mieux lorsqu'on se sent valorisé et important.    
+     Pour cet axe, on doit essayer de mettre en valeur les forces de chaque étudiant afin qu'ils se développent dans leurs apprentissages. Je trouve que c'est un beau défi, mais je crois que l'approche par projet, dont j'ai parlé dans mes deux premiers portraits, me permettra de me développer dans cet axe. Dans leurs projets, les étudiants auront chacun un rôle basé sur leurs forces, ce qui leur permettra de se développer et, surtout, de se sentir à leur place dans une équipe. Je suis consciente qu'on apprend beaucoup mieux lorsqu'on se sent valorisé et important.    
 
 !!! example "Axe de l'impuissance/partage de pouvoir"
 
@@ -59,21 +71,21 @@ Dans son texte, Kozanitis mentionne *qu’une relation pédagogique appropriée 
 
 !!! success "Prendre le temps d'écouter les étudiants et leur montrer de l'ouverture"
 
-     Dès le début de la session, je mentionne que je suis là si jamais les élèves ont besoin de parler. En tant que coordonnatrice de programme je suis une des ressources qu'ils peuvent consulter si jamais ils sont incertains d'une situation. Je les invite à me consulter même pour des éléments qu'ils ne considèrent pas urgent. J'espère qu'en me montrant accessible et ouverte, cela leur permet de se confier plus facilement s'ils vivent des difficultés. 
+     Dès le début de la session, je mentionne que je suis là si jamais les élèves ont besoin de parler. En tant que coordonnatrice de département, je suis une des ressources qu'ils peuvent consulter si jamais ils sont incertains d'une situation. Je les invite à me consulter même pour des éléments qu'ils ne considèrent pas urgents. J'espère qu'en me montrant accessible et ouverte, cela leur permet de se confier plus facilement s'ils vivent des difficultés. 
 
 !!! success "Échanger de manière informelle avec les étudiants"
 
-     Souvent, j'utilise les pause de mon cours pour échanger avec les étudiants sur ce qu'ils ont fait pendant le weekend ou pour discuter avec eux des jeux vidéos auxquels ils jouent en ce moment. Ces échanges nous permettent d'apprendre à nous connaître et développent notre relation. En voyant que nous avons tous des intérêts en dehors des cours, nous créons une relation qui est plus forte que si nous échangons seulement sur la matière et sur les éléments reliés au cours. 
+     Souvent, j'utilise les pauses de mon cours pour échanger avec les étudiants sur ce qu'ils ont fait pendant le weekend ou pour discuter avec eux des jeux vidéos auxquels ils jouent en ce moment. Ces échanges nous permettent d'apprendre à nous connaître et développent notre relation. En voyant que nous avons tous des intérêts en dehors des cours, nous créons une relation qui est plus forte que si nous échangeons seulement sur la matière et sur les éléments reliés au cours. 
 
      
 **Anxiété de performance**     
 
 L'anxiété de performance est probablement l'un des éléments dont je suis le plus consciente en tant que professeure. Étant moi-même sujette à en faire, je tente de fournir un contexte d'apprentissage qui permettra d'atténuer la pression de mes étudiants. Voici quelques stratégies que j'utilise à cet effet: 
 
-* Proposer des travaux pratiques plutôt que des examens. Puisque les travaux se font sur plusieurs semaines, les élèves peuvent me consulter en cours de route et me montrer leur avancement. De cette manière, ils ont mes commentaires et peuvent améliorer le tout avant la remise. Les étudiants se sentent souvent sécurisés lorsqu'on les rassure sur la qualité de leurs travaux. De plus, si ils ne vont pas dans la direction, on peut les réorienter pour s'assurer qu'ils arrivent à ce qui est demandé.
-* Donner des consignes claires. Pour mes travaux, j'essaie d'avoir des consignes qui sont le plus simple possible et qu'on ne peut pas interpréter. De plus, les étudiants ont toujours accès à la grille de correction détaillée à l'avance, ce qui peut les aider à s'autoévaluer et s'assurer que leur travail répond aux exigences.
+* Proposer des travaux pratiques plutôt que des examens. Puisque les travaux se font sur plusieurs semaines, les élèves peuvent me consulter en cours de route et me montrer leur avancement. De cette manière, ils ont mes commentaires et peuvent améliorer le tout avant la remise. Les étudiants se sentent souvent sécurisés lorsqu'on les rassure sur la qualité de leurs travaux. De plus, s'ils ne vont pas dans la direction, on peut les réorienter pour s'assurer qu'ils arrivent à ce qui est demandé.
+* Donner des consignes claires. Pour mes travaux, j'essaie d'avoir des consignes qui sont les plus simples possibles et qu'on ne peut pas interpréter. De plus, les étudiants ont toujours accès à la grille de correction détaillée à l'avance, ce qui peut les aider à s'autoévaluer et s'assurer que leur travail répond aux exigences.
 * Dans le texte de Fournier-Plouffe, l'une de mes stratégies est validée: *Pour esquiver la comparaison, le professeur peut éviter de mentionner la moyenne du groupe lors de sa rétroaction sur
-les évaluations et faire en sorte qu’elle ne s’affiche pas dans le tableau de bord de l’étudiant lorsque ce dernier consulte ses résultats dans Omnivox ou Col.NET.*[^fournier] (Fournier-Plouffe, 2019, p.5) J'utilise cette méthode puisque je souhaite que mes étudiants se concentrent sur leur résultat plutôt que de se comparer aux autres. 
+les évaluations et faire en sorte qu’elle ne s’affiche pas dans le tableau de bord de l’étudiant lorsque ce dernier consulte ses résultats dans Omnivox ou Col.NET.*[^fournier] (Fournier-Plouffe, 2019, p.5). J'utilise cette méthode puisque je souhaite que mes étudiants se concentrent sur leur résultat plutôt que de se comparer aux autres. 
 
 ### Favoriser les apprentissages de mes étudiants 1 
 Expliquez deux moyens réalistes que vous comptez mettre en place pour favoriser la réussite éducative de vos élèves, pour être davantage en cohérence avec les principes de l’inclusion, de la motivation, de l’engagement et de la sécurisation émotionnelle.
@@ -91,7 +103,7 @@ Précisez comment vos forces de caractère peuvent devenir des leviers pour la m
 ### Favoriser les apprentissages de mes étudiants 2 
 J'aimerais beaucoup travailler au niveau de l'inclusion dans mes cours. Je crois qu'un bon moyen de favoriser les apprentissages de mes étudiants serait premièrement de me renseigner sur leur réalité. Peut-être qu'en leur passant un questionnaire ou qu'en ayant une discussion avec eux je pourrais en apprendre plus sur leur sentiment d'inclusion. Qu'est-ce qui suscite ce sentiment? À quels moments se sentent-ils moins inclus? Quelles stratégies pourrions-nous mettre en place dans la classe pour que tous s'y sentent bien? 
 
-Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils de pratique réflexive que nous avons abordé dans le deuxième portrait pour mieux orienter ma pratique enseignante. Il me faudrait analyser les réponses. Ensuite, généraliser et trouver des solutions concrètes pour finalement faire un transfert dans la salle de classe. Aussi, il ne faut pas oublier que ce processus n'est pas unique, il s'agit d'une boucle. Ainsi, je pourrais continuer d'observer ma pratique pour continuer à l'améliorer. Continuer de poser des questions à mes élèves pour tenter de les appuyer le mieux possible dans leurs apprentissages. 
+Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils de pratique réflexive que nous avons abordés dans le deuxième portrait pour mieux orienter ma pratique enseignante. Il me faudrait analyser les réponses. Ensuite, généraliser et trouver des solutions concrètes pour finalement faire un transfert dans la salle de classe. Aussi, il ne faut pas oublier que ce processus n'est pas unique, il s'agit d'une boucle. Ainsi, je pourrais continuer d'observer ma pratique pour continuer à l'améliorer. Continuer de poser des questions à mes élèves pour tenter de les appuyer le mieux possible dans leurs apprentissages. 
 
 **Comment cette nouvelle pratique est en cohérence avec les principes de l'inclusion, de la motivation, de l'engagement et de la sécurisation émotionnelle?**   
 
