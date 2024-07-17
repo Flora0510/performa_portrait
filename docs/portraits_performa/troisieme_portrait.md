@@ -101,7 +101,8 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 
 
 ### Favoriser les apprentissages de mes étudiants 2
-Dans le cours d'introduction au marché du travail, j'aimerais utiliser une approche socioconstructiviste pour explorer la réalité du marché du travail. Je pourrais créer une discussion guidée avec les élèves dans laquelle nous aborderions la thématique de l'inclusion dans leur milieu de travail. Voici quelques questions que j'aimerais aborder avec eux:    
+Dans le cours d'introduction au marché du travail, j'aimerais utiliser une approche socioconstructiviste pour explorer la réalité du marché du travail. Je pourrais créer une discussion guidée avec les élèves dans laquelle nous aborderions la thématique de l'inclusion dans leur milieu de travail. Voici quelques questions que j'aimerais aborder avec eux:       
+
 * Qu'est-ce que l'inclusion dans un milieu de travail? Qu'est-ce qui vous donne un sentiment d'appartenance? 
 * Avez-vous des craintes par rapport à votre inclusion dans votre milieu? (Que ce soit par rapport à leur expérience ou leurs caractéristiques)
 * Quelles solutions les entreprises peuvent-elles mettre en place pour être plus inclusives?
