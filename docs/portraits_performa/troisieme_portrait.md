@@ -88,19 +88,6 @@ L'anxiété de performance est probablement l'un des éléments dont je suis le 
 les évaluations et faire en sorte qu’elle ne s’affiche pas dans le tableau de bord de l’étudiant lorsque ce dernier consulte ses résultats dans Omnivox ou Col.NET.*[^fournier] (Fournier-Plouffe, 2019, p.5). J'utilise cette méthode puisque je souhaite que mes étudiants se concentrent sur leur résultat plutôt que de se comparer aux autres. 
 
 ### Favoriser les apprentissages de mes étudiants 1 
-Expliquez deux moyens réalistes que vous comptez mettre en place pour favoriser la réussite éducative de vos élèves, pour être davantage en cohérence avec les principes de l’inclusion, de la motivation, de l’engagement et de la sécurisation émotionnelle.
-
-Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues.
-Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de vos moyens.
-![Première impression du rôle](image/role1.jpg)
-
-**En résumé**    
-
-**Comment cette nouvelle pratique est en cohérence avec mon rôle et mes responsabilités en tant qu'enseignante?**         
-
-* Point 1
-
-### Favoriser les apprentissages de mes étudiants 2 
 J'aimerais beaucoup travailler au niveau de l'inclusion dans mes cours. Je crois qu'un bon moyen de favoriser les apprentissages de mes étudiants serait premièrement de me renseigner sur leur réalité. Peut-être qu'en leur passant un questionnaire ou qu'en ayant une discussion avec eux je pourrais en apprendre plus sur leur sentiment d'inclusion. Qu'est-ce qui suscite ce sentiment? À quels moments se sentent-ils moins inclus? Quelles stratégies pourrions-nous mettre en place dans la classe pour que tous s'y sentent bien? 
 
 Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils de pratique réflexive que nous avons abordés dans le deuxième portrait pour mieux orienter ma pratique enseignante. Il me faudrait analyser les réponses. Ensuite, généraliser et trouver des solutions concrètes pour finalement faire un transfert dans la salle de classe. Aussi, il ne faut pas oublier que ce processus n'est pas unique, il s'agit d'une boucle. Ainsi, je pourrais continuer d'observer ma pratique pour continuer à l'améliorer. Continuer de poser des questions à mes élèves pour tenter de les appuyer le mieux possible dans leurs apprentissages. 
@@ -113,6 +100,18 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 * Dans leur texte, Fraser et Kozanitis soulignent: *La majorité du personnel enseignant ne soupçonne pas qu’elle traite les étudiantes et les étudiants de façon inégale.*[^fraser] (Fraser et Kozanitis, 2019, p.36) Pour moi, questionner les étudiants et apprendre à les connaître est une façon de découvrir les problèmes d'inclusion dans ma classe. Si je n'ai pas conscience que je traite les étudiants de façon inégale, je ne pourrai pas régler les problèmes que cela peut créer. Inviter les étudiants à me partager leurs enjeux et solutions constitue l'une des façons de rendre ma classe plus inclusive. 
 
 
+### Favoriser les apprentissages de mes étudiants 2
+Expliquez deux moyens réalistes que vous comptez mettre en place pour favoriser la réussite éducative de vos élèves, pour être davantage en cohérence avec les principes de l’inclusion, de la motivation, de l’engagement et de la sécurisation émotionnelle.
+
+Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues.
+Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de vos moyens.
+![Première impression du rôle](image/role1.jpg)
+
+**En résumé**    
+
+**Comment cette nouvelle pratique est en cohérence avec mon rôle et mes responsabilités en tant qu'enseignante?**         
+
+* Point 1
 
   
 ## Bibliographie
