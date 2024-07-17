@@ -101,17 +101,21 @@ Une fois le portrait de mes étudiants dressé, je pourrais utiliser les outils 
 
 
 ### Favoriser les apprentissages de mes étudiants 2
-Expliquez deux moyens réalistes que vous comptez mettre en place pour favoriser la réussite éducative de vos élèves, pour être davantage en cohérence avec les principes de l’inclusion, de la motivation, de l’engagement et de la sécurisation émotionnelle.
+Dans le cours d'introduction au marché du travail, j'aimerais utiliser une approche socioconstructiviste pour explorer la réalité du marché du travail. Je pourrais créer une discussion guidée avec les élèves dans laquelle nous aborderions la thématique de l'inclusion dans leur milieu de travail. Voici quelques questions que j'aimerais aborder avec les élèves:    
+* Qu'est-ce que l'inclusion dans un milieu de travail? Qu'est-ce qui vous donne un sentiment d'appartenance? 
+* Avez-vous des craintes par rapport à votre inclusion dans votre milieu? (Que ce soit par rapport à leur expérience ou leurs caractéristiques)
+* Quelles solutions les entreprises peuvent-elles mettre en place pour être plus inclusive?
+* En tant qu'individu, comment pouvez-vous participer positivement à l'inclusion dans votre milieu de travail?
+* Quels sont les comportements à éviter d'après vous lorsque l'on parle d'inclusion? 
 
-Appuyez-vous sur les savoirs du cours pour justifier vos décisions. Assurez-vous de citer vos références selon les normes attendues.
-Précisez comment vos forces de caractère peuvent devenir des leviers pour la mise en œuvre de vos moyens.
-![Première impression du rôle](image/role1.jpg)
+Je pourrais aussi inviter un acteur du milieu ou d'anciens étudiants pour discuter avec les élèves. Le fait d'avoir un acteur externe pourrait leur permettre de répondre à leurs interrogations et d'avoir une discussion plus riche. Je crois que ma gentillesse et ma générosité seront des forces nécessaires pour mener à bien cette discussion. Elle soulèvera nécessairement des enjeux sensibles et je crois qu'il faudra s'assurer que tous se sentent écoutés et en sécurité.  
 
-**En résumé**    
+**Comment cette nouvelle pratique est en cohérence avec les principes de l'inclusion, de la motivation, de l'engagement et de la sécurisation émotionnelle?**   
 
-**Comment cette nouvelle pratique est en cohérence avec mon rôle et mes responsabilités en tant qu'enseignante?**         
-
-* Point 1
+* Les étudiants sont souvent craintifs par rapport au marché du travail. Parler avec eux de ce qui les attends et leur donner l'espace pour partager leurs craintes leur permettra de se sentir plus prêts face à ce qui s'en vient pour eux. De plus, pour certains, l'inclusion est un enjeu qui les effraie, avoir une discussion sur des stratégies leur permettra d'être plus rassuré et mieux préparé.
+* Les élèves seront plus motivés dans un exercice qui leur permet de travailler sur leurs préoccupations. Si je leur présente simplement la réalité du milieu avec une présentation magistrale, ils ne se sentiront pas nécessairement concernés. Ainsi, je crois que cette méthode suscitera plus d'engagement et de réactions de leur part.
+* Au collégial, nous formons des futurs employés, oui, mais surtout les citoyens de demain. Il est important pour moi que les étudiants soient conscients des enjeux de notre société. Plus nos étudiants sont informés sur les enjeux que leurs confrères vivent, plus ils peuvent agir pour leur venir en aide. Connaître certaines réalités et être conscient de solutions qu'on peut apporter pour aider son prochain permet aux élèves d'être de meilleurs citoyens.
+* Cette activité permettra également aux élèves de se sentir écoutés et compris. Ce sera assurément un beau moyen d'améliorer notre relation pédagogique. Pas seulement celle entre les élèves et moi, mais aussi celle entre les étudiants. 
 
   
 ## Bibliographie
