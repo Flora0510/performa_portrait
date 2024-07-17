@@ -61,6 +61,10 @@ Dans son texte, Kozanitis mentionne *qu’une relation pédagogique appropriée 
 
      Dès le début de la session, je mentionne que je suis là si jamais les élèves ont besoin de parler. En tant que coordonnatrice de programme je suis une des ressources qu'ils peuvent consulter si jamais ils sont incertains d'une situation. Je les invite à me consulter même pour des éléments qu'ils ne considèrent pas urgent. J'espère qu'en me montrant accessible et ouverte, cela leur permet de se confier plus facilement s'ils vivent des difficultés. 
 
+!!! success "Échanger de manière informelle avec les étudiants"
+
+     Souvent, j'utilise les pause de mon cours pour échanger avec les étudiants sur ce qu'ils ont fait pendant le weekend ou pour discuter avec eux des jeux vidéos auxquels ils jouent en ce moment. Ces échanges nous permettent d'apprendre à nous connaître et développent notre relation. En voyant que nous avons tous des intérêts en dehors des cours, nous créons une relation qui est plus forte que si nous échangons seulement sur la matière et sur les éléments reliés au cours. 
+
      
 **Anxiété de performance**     
 
