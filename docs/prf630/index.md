@@ -1,0 +1,2 @@
+# PRF630
+Analyser ses pratiques d’enseignement dans une perspective de stratégies pédagogiques actives. Élaborer un scénario pédagogique dans le cadre de situations d'enseignement-apprentissage-évaluation selon la logique de l’alignement technopédagogique et dans une perspective d’alignement curriculaire. Mettre en œuvre la diversification des stratégies pédagogiques et juger de ses retombées sur la motivation et l’engagement cognitif des personnes étudiantes.
